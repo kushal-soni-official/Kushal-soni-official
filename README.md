@@ -1,11 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER — ANIMATED WAVE BANNER  (Portfolio-matched theme)
-     BG: #030508  |  Neon: #00ff88  |  Aurora glow aesthetic
+     HEADER — MATRIX VENOM 3D  (Blood Red × Neon Green × Dark)
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,50:041a0e,100:00ff88&height=260&section=header&text=%3E_%20KUSHAL%20SONI&fontSize=68&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=%2F%2F%20Cybersecurity%20Enthusiast%20%7C%20Penetration%20Tester%20%7C%20Ethical%20Hacker&descAlignY=62&descColor=88ffbb&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff3355,35:1a0008,65:030508,100:00ff88&height=300&section=header&text=KUSHAL%20SONI&fontSize=80&fontColor=00ff88&animation=twinkling&fontAlignY=42&fontAlign=50&stroke=ff3355&strokeWidth=1.5&desc=%E2%96%88%E2%96%88%20Cybersecurity%20Engineer%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20AI%2FML%20Builder%20%E2%96%88%E2%96%88&descAlignY=68&descColor=ff3355&descSize=14" />
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TYPING ANIMATION — Matches portfolio typing phrases exactly
+     TYPING ANIMATION — Matches portfolio typing phrases
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=00FF88&background=03050800&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player;%3E+Anonymous;%3E+Dominator;%3E+The+one+who+left+it+all+behind" alt="Typing SVG" />
@@ -18,42 +17,6 @@
 <br/>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ABOUT ME — TERMINAL STYLE (ENHANCED — Cyber HUD aesthetic)
-═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗              │
-│  ██║ ██╔╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║   ██║              │
-│  █████╔╝ ██║   ██║███████╗███████║███████║██████╔╝██║   ██║              │
-│  ██╔═██╗ ██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗██║   ██║              │
-│  ██║  ██╗╚██████╔╝███████║██║  ██║██║  ██║██║  ██║╚██████╔╝              │
-│  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝               │
-└─────────────────────────────────────────────────────────────────────────────┘
-
-  ┌──(kusharu㉿kali)-[~]
-  └─$ neofetch --config kusharu
-
-  ╭──────────────────────────────────────────────────────────────╮
-  │                                                              │
-  │   ██ HANDLE     Kushal Soni  (@Kusharu)                      │
-  │   ██ ROLE       Cybersecurity & AI/ML Engineer               │
-  │   ██ FOCUS      Pentesting · AI Security · Threat Intel      │
-  │   ██ ACADEMY    CS Diploma ──► B.Tech Lateral (9.5+ CGPA)   │
-  │   ██ MISSION    Build secure, intelligent systems            │
-  │   ██ CERTS      NPTEL [IIT KGP] · IBM · Microsoft · Voda    │
-  │   ██ STATUS     SC-500 │ CTF │ Hackathons │ Open Source      │
-  │                                                              │
-  ╰──────────────────────────────────────────────────────────────╯
-
-  [■■■■■■■■■■■■■■■■■■■■] 100%  Profile loaded — access granted.
-```
-
-</div>
 
 ---
 
@@ -265,13 +228,9 @@
   <a href="https://tryhackme.com/p/kusharusan">
     <img src="https://img.shields.io/badge/TryHackMe-030508?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe" />
   </a>
-  &nbsp;
-  <a href="https://portfolio.ofc-kusharu.workers.dev">
-    <img src="https://img.shields.io/badge/Portfolio-030508?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Portfolio" />
-  </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
      FOOTER WAVE  (Portfolio-matched gradient)
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:030508&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,35:030508,65:1a0008,100:ff3355&height=150&section=footer" />
