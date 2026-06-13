@@ -17,11 +17,11 @@
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=FOLLOWERS&color=00ff88&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00ff88" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=FOLLOWERS&color=0d1117&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00ff88" alt="GitHub Followers" />
   </a>
 </p>
 
