@@ -3,33 +3,9 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- TOP WAVE BANNER with neon matrix gradient and twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:030d05,75:041a0e,100:00ff88&height=320&section=header&text=KUSHAL%20SONI&fontSize=86&fontColor=00ff88&fontAlignY=40&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=63&descSize=17&animation=twinkling&stroke=00ff88&strokeWidth=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:010305,35:020a05,60:031a08,85:052e10,100:00ff88&height=340&section=header&text=KUSHAL%20SONI&fontSize=88&fontColor=00ff88&fontAlignY=40&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=63&descSize=17&animation=twinkling&stroke=00ff88&strokeWidth=3&theme=tokyonight" />
 
-<!-- PROFILE AVATAR -->
-<p align="center">
-  <img src="https://github.com/Kushal-soni-official.png?size=150" width="140" alt="Kushal Soni" />
-</p>
 
-<!-- SOCIAL QUICK-ACCESS BADGES -->
-<p align="center">
-  <a href="https://github.com/Kushal-soni-official">
-    <img src="https://img.shields.io/badge/%40Kushal--soni--official-181717?style=for-the-badge&logo=github&logoColor=00ff88" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/kushal-soni-750340345">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2030%25-1C1C1C?style=for-the-badge&logo=tryhackme&logoColor=88cc14" />
-  </a>
-  &nbsp;
-  <a href="mailto:kushalsoniofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<br/>
 
 <!-- TYPING ANIMATION — enhanced multi-line rotating taglines -->
 <p align="center">
@@ -48,14 +24,6 @@
   &nbsp;
   <a href="https://github.com/Kushal-soni-official">
     <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=Followers&color=00ff88&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Kushal-soni-official?tab=repositories">
-    <img src="https://img.shields.io/github/stars-of-user/Kushal-soni-official?label=Total+Stars&color=00ff88&style=for-the-badge&logo=github" alt="Total Stars" />
-  </a>
-  &nbsp;
-  <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%2030%25-00ff88?style=for-the-badge&logo=tryhackme" alt="TryHackMe Rank" />
   </a>
 </p>
 
