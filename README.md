@@ -1,17 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER — ANIMATED WAVE BANNER
+     HEADER — ANIMATED WAVE BANNER  (Portfolio-matched theme)
+     BG: #030508  |  Neon: #00ff88  |  Aurora glow aesthetic
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a00,100:00ff41&height=250&section=header&text=%3E_%20KUSHAL%20SONI&fontSize=65&fontColor=00ff41&animation=fadeIn&fontAlignY=45&desc=Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter&descAlignY=65&descColor=aaffaa&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,50:041a0e,100:00ff88&height=260&section=header&text=%3E_%20KUSHAL%20SONI&fontSize=68&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=%2F%2F%20Cybersecurity%20Enthusiast%20%7C%20Penetration%20Tester%20%7C%20Ethical%20Hacker&descAlignY=62&descColor=88ffbb&descSize=16" />
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TYPING ANIMATION
+     TYPING ANIMATION — Matches portfolio typing phrases exactly
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=730&lines=whoami+%3E+Kushal+Soni+%E2%80%94+Cybersecurity+%26+AI+Engineer;Penetration+Testing+%7C+AI%2FML+%7C+Threat+Detection;TryHackMe+Top+30%25+Globally+%7C+108-Day+Streak+%F0%9F%94%A5;IBM+%C2%B7+Microsoft+%C2%B7+Vodafone+%E2%80%94+AICTE+Certified+Intern;NPTEL+Ethical+Hacking+%E2%80%94+IIT+Kharagpur+%5BElite%5D;Diploma+%E2%86%92+B.Tech+%E2%86%92+9.5%2B+CGPA+%E2%86%92+International+Masters+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=00FF88&background=03050800&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player;%3E+Anonymous;%3E+Dominator;%3E+The+one+who+left+it+all+behind" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=Profile+Views&color=00ff41&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=Profile+Views&color=00ff88&style=flat-square" alt="Profile Views" />
 </p>
 
 <br/>
@@ -19,32 +20,37 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     ABOUT ME — TERMINAL STYLE (ENHANCED)
+     ABOUT ME — TERMINAL STYLE (ENHANCED — Cyber HUD aesthetic)
 ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║   ┌──(kusharu㉿kali)-[~/home]                                              ║
-║   └─$ cat /etc/profile.d/kusharu.conf                                      ║
-║                                                                            ║
-║   ╭─────────────────────────────────────────────────────────────────────╮   ║
-║   │                                                                     │   ║
-║   │   HANDLE    ░░  Kushal Soni  (@Kusharu)                             │   ║
-║   │   ROLE      ░░  Cybersecurity & AI/ML Engineer                      │   ║
-║   │   FOCUS     ░░  Pentesting  ·  AI Security  ·  Threat Intel         │   ║
-║   │   ACADEMY   ░░  CS Diploma ──► B.Tech Lateral Entry (9.5+ CGPA)    │   ║
-║   │   MISSION   ░░  Build secure, intelligent systems for real impact   │   ║
-║   │   INTEL     ░░  NPTEL [IIT KGP] · IBM · Microsoft · Vodafone       │   ║
-║   │   STATUS    ░░  SC-500 Prep  │  CTF  │  Hackathons  │  Open Source  │   ║
-║   │                                                                     │   ║
-║   ╰─────────────────────────────────────────────────────────────────────╯   ║
-║                                                                            ║
-║   [✓] Profile loaded successfully.                                         ║
-║                                                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗              │
+│  ██║ ██╔╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔══██╗██║   ██║              │
+│  █████╔╝ ██║   ██║███████╗███████║███████║██████╔╝██║   ██║              │
+│  ██╔═██╗ ██║   ██║╚════██║██╔══██║██╔══██║██╔══██╗██║   ██║              │
+│  ██║  ██╗╚██████╔╝███████║██║  ██║██║  ██║██║  ██║╚██████╔╝              │
+│  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝               │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+  ┌──(kusharu㉿kali)-[~]
+  └─$ neofetch --config kusharu
+
+  ╭──────────────────────────────────────────────────────────────╮
+  │                                                              │
+  │   ██ HANDLE     Kushal Soni  (@Kusharu)                      │
+  │   ██ ROLE       Cybersecurity & AI/ML Engineer               │
+  │   ██ FOCUS      Pentesting · AI Security · Threat Intel      │
+  │   ██ ACADEMY    CS Diploma ──► B.Tech Lateral (9.5+ CGPA)   │
+  │   ██ MISSION    Build secure, intelligent systems            │
+  │   ██ CERTS      NPTEL [IIT KGP] · IBM · Microsoft · Voda    │
+  │   ██ STATUS     SC-500 │ CTF │ Hackathons │ Open Source      │
+  │                                                              │
+  ╰──────────────────────────────────────────────────────────────╯
+
+  [■■■■■■■■■■■■■■■■■■■■] 100%  Profile loaded — access granted.
 ```
 
 </div>
@@ -55,62 +61,62 @@
      SKILL ARSENAL — WEAPON CACHE
 ═══════════════════════════════════════════════════════════════ -->
 
-## 🧰 Skill Arsenal — Tools & Technologies
+## <img src="https://img.shields.io/badge/-%E2%96%B6%20WEAPON%20CACHE-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Skill Arsenal
 
 <br/>
 
-<p align="center"><b>⌨️ Languages & Core Stack</b></p>
+<h4 align="center">⌨️ &nbsp; LANGUAGES  &  CORE STACK</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Python-030508?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-030508?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-030508?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-030508?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Flask-030508?style=for-the-badge&logo=flask&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FastAPI-030508?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/React-030508?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-030508?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-<br/>
+<br/><br/>
 
-<p align="center"><b>🤖 AI & Machine Learning</b></p>
+<h4 align="center">🤖 &nbsp; AI  &  MACHINE LEARNING</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=412991" />
-  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
-  <img src="https://img.shields.io/badge/TF--IDF-0d1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/PyTorch-030508?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/TensorFlow-030508?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/scikit--learn-030508?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/OpenAI_API-030508?style=for-the-badge&logo=openai&logoColor=412991" />
+  <img src="https://img.shields.io/badge/NLP-030508?style=for-the-badge&logo=spacy&logoColor=09A3D5" />
+  <img src="https://img.shields.io/badge/NumPy-030508?style=for-the-badge&logo=numpy&logoColor=013243" />
 </p>
 
-<br/>
+<br/><br/>
 
-<p align="center"><b>🛡️ Cybersecurity</b></p>
+<h4 align="center">🛡️ &nbsp; CYBERSECURITY</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Pentesting-0d1117?style=for-the-badge&logo=hackerone&logoColor=494649" />
-  <img src="https://img.shields.io/badge/Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=003A70" />
-  <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14" />
+  <img src="https://img.shields.io/badge/Kali_Linux-030508?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Linux-030508?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Wireshark-030508?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Nmap-030508?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Pentesting-030508?style=for-the-badge&logo=hackerone&logoColor=494649" />
+  <img src="https://img.shields.io/badge/Cryptography-030508?style=for-the-badge&logo=letsencrypt&logoColor=003A70" />
+  <img src="https://img.shields.io/badge/TryHackMe-030508?style=for-the-badge&logo=tryhackme&logoColor=88cc14" />
 </p>
 
-<br/>
+<br/><br/>
 
-<p align="center"><b>🔧 Tools, Cloud & Analytics</b></p>
+<h4 align="center">🔧 &nbsp; TOOLS, CLOUD  &  ANALYTICS</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
-  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=microsoft&logoColor=5E5E5E" />
+  <img src="https://img.shields.io/badge/Git-030508?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-030508?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/GitHub-030508?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Azure-030508?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Power_BI-030508?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/MySQL-030508?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Docker-030508?style=for-the-badge&logo=docker&logoColor=2496ED" />
 </p>
 
 <br/>
@@ -118,94 +124,119 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     WORK EXPERIENCE — BATTLE RECORD (ENHANCED TIMELINE)
+     WORK EXPERIENCE — BATTLE RECORD (ENHANCED CARD DESIGN)
 ═══════════════════════════════════════════════════════════════ -->
 
-## ⚔️ Battle Record — Work Experience
+## <img src="https://img.shields.io/badge/-%E2%96%B6%20BATTLE%20RECORD-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Work Experience
 
 <br/>
 
-<table align="center" width="95%">
+<div align="center">
 
-<!-- ─── VODAFONE ─── -->
-<tr>
-<td>
-
-### 🔴 &nbsp; Cybersecurity Intern &nbsp;·&nbsp; Vodafone Idea Foundation
-<sup><b>via AICTE</b> &nbsp;│&nbsp; <code>📅 Mar 2026 – Apr 2026</code></sup>
+<table>
+<tr><td>
 
 <br/>
 
-> **⚙️ Stack:** &nbsp; `Kali Linux` · `Nmap` · `Wireshark` · `Python`
+<h3>🔴 &nbsp; Cybersecurity Intern</h3>
+<h4>Vodafone Idea Foundation &nbsp;·&nbsp; <i>via AICTE</i></h4>
 
-&nbsp;&nbsp;⫸ &nbsp; Executed ethical hacking operations, packet capture analysis & MITM attack simulations  
-&nbsp;&nbsp;⫸ &nbsp; Engineered **CyberScan Lite** — a lightweight Python GUI automating host detection & OS fingerprinting without admin rights
+<sub>📅 &nbsp; <b>Mar 2026 – Apr 2026</b></sub>
 
-<br/>
+<br/><br/>
 
-</td>
-</tr>
-
-<!-- ─── SPACER ─── -->
-<tr><td><br/></td></tr>
-
-<!-- ─── MICROSOFT ─── -->
-<tr>
-<td>
-
-### 🔵 &nbsp; Data Analytics Intern &nbsp;·&nbsp; Microsoft Elevate Program
-<sup><b>via AICTE</b> &nbsp;│&nbsp; <code>📅 Feb 2026 – Mar 2026</code></sup>
+> **Stack** &nbsp; `Kali Linux` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `Python`
 
 <br/>
 
-> **⚙️ Stack:** &nbsp; `Power BI` · `DAX` · `Power Query`
-
-&nbsp;&nbsp;⫸ &nbsp; Analyzed real-world online banking fraud datasets — documented **85% YoY surge** in fraud cases  
-&nbsp;&nbsp;⫸ &nbsp; Built custom **DAX measures** & applied Power Query transformations for dynamic risk-assessment dashboards
-
-<br/>
-
-</td>
-</tr>
-
-<!-- ─── SPACER ─── -->
-<tr><td><br/></td></tr>
-
-<!-- ─── IBM ─── -->
-<tr>
-<td>
-
-### 🟡 &nbsp; AI/ML Intern &nbsp;·&nbsp; IBM SkillsBuild
-<sup><b>via AICTE</b> &nbsp;│&nbsp; <code>📅 Jan 2026 – Feb 2026</code></sup>
+```
+ ⫸  Executed ethical hacking operations, packet capture
+    analysis & MITM attack simulations
+ ⫸  Engineered CyberScan Lite — lightweight Python GUI
+    automating host detection & OS fingerprinting
+```
 
 <br/>
 
-> **⚙️ Stack:** &nbsp; `PyTorch` · `TF-IDF` · `scikit-learn` · `Python`
-
-&nbsp;&nbsp;⫸ &nbsp; Trained predictive ML models using **TF-IDF vectorization** & **PyTorch-based neural networks** for security classification  
-&nbsp;&nbsp;⫸ &nbsp; Achieved **90.91% test accuracy** on AI classification systems tailored for threat detection
-
-<br/>
-
-</td>
-</tr>
-
+</td></tr>
 </table>
 
 <br/>
 
+<table>
+<tr><td>
+
+<br/>
+
+<h3>🔵 &nbsp; Data Analytics Intern</h3>
+<h4>Microsoft Elevate Program &nbsp;·&nbsp; <i>via AICTE</i></h4>
+
+<sub>📅 &nbsp; <b>Feb 2026 – Mar 2026</b></sub>
+
+<br/><br/>
+
+> **Stack** &nbsp; `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Power Query`
+
+<br/>
+
+```
+ ⫸  Analyzed real-world banking fraud datasets —
+    documented 85% YoY surge in fraud cases
+ ⫸  Built custom DAX measures & Power Query
+    transformations for dynamic risk-assessment dashboards
+```
+
+<br/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
+
+<br/>
+
+<h3>🟡 &nbsp; AI/ML Intern</h3>
+<h4>IBM SkillsBuild &nbsp;·&nbsp; <i>via AICTE</i></h4>
+
+<sub>📅 &nbsp; <b>Jan 2026 – Feb 2026</b></sub>
+
+<br/><br/>
+
+> **Stack** &nbsp; `PyTorch` &nbsp;·&nbsp; `TF-IDF` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `Python`
+
+<br/>
+
+```
+ ⫸  Trained predictive ML models using TF-IDF
+    vectorization & PyTorch neural networks
+ ⫸  Achieved 90.91% test accuracy on AI classification
+    systems tailored for threat detection
+```
+
+<br/>
+
+</td></tr>
+</table>
+
+</div>
+
+<br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     ACTIVITY GRAPH — SIGNAL TRACE
+     ACTIVITY GRAPH — SIGNAL TRACE  (Portfolio-matched colors)
 ═══════════════════════════════════════════════════════════════ -->
 
-## 📡 Signal Trace — Contribution Activity
+## <img src="https://img.shields.io/badge/-%E2%96%B6%20SIGNAL%20TRACE-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Contribution Activity
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal-soni-official&custom_title=Kusharu%27s%20Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ff6600&area=true&hide_border=true&area_color=001a00" width="98%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal-soni-official&custom_title=Kusharu%27s%20Contribution%20Graph&bg_color=030508&color=00ff88&line=00ff88&point=ff6600&area=true&hide_border=true&area_color=041a0e" width="98%" alt="Activity Graph" />
 </p>
 
 <br/>
@@ -216,27 +247,31 @@
      CONNECT
 ═══════════════════════════════════════════════════════════════ -->
 
-## 📬 Connect With Me
+## <img src="https://img.shields.io/badge/-%E2%96%B6%20CONNECT-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Get In Touch
 
 <p align="center">
   <a href="mailto:kushalsoniofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-030508?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kushal-soni-750340345">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-030508?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-030508?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-030508?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio.ofc-kusharu.workers.dev">
+    <img src="https://img.shields.io/badge/Portfolio-030508?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Portfolio" />
   </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     FOOTER WAVE
+     FOOTER WAVE  (Portfolio-matched gradient)
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:030508&height=120&section=footer" />
