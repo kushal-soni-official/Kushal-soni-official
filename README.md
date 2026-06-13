@@ -1,102 +1,42 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER — MATRIX FALLING CODE (Clean, Dark, Neon Green & Crisp)
+     HEADER — HIGH IMPACT MATRIX HEADER
 ═══════════════════════════════════════════════════════════════ -->
+
+<!-- TOP WAVE BANNER with neon matrix gradient and twinkling animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:030d05,75:041a0e,100:00ff88&height=320&section=header&text=KUSHAL%20SONI&fontSize=86&fontColor=00ff88&fontAlignY=40&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=63&descSize=17&animation=twinkling&stroke=00ff88&strokeWidth=3" />
+
+<!-- PROFILE AVATAR -->
 <p align="center">
-  <svg width="100%" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="background:#030508; border-radius:12px; border: 1px solid #111a14;">
-    <!-- Grid System Overlay -->
-    <defs>
-      <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(0, 255, 136, 0.02)" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="850" height="240" fill="url(#grid)" />
-
-    <!-- Matrix Code Rain columns - Simulated with varying opacity & length -->
-    <g opacity="0.35" font-family="Courier, monospace" font-size="11" font-weight="bold">
-      <!-- Left side columns -->
-      <text x="15" y="40" fill="#00ff88" opacity="0.1">0</text>
-      <text x="15" y="60" fill="#00ff88" opacity="0.3">1</text>
-      <text x="15" y="80" fill="#00ff88" opacity="0.5">X</text>
-      <text x="15" y="100" fill="#00ff88" opacity="0.8">9</text>
-      <text x="15" y="120" fill="#00ff88" opacity="0.9">ｱ</text>
-      
-      <text x="45" y="80" fill="#00ff88" opacity="0.2">A</text>
-      <text x="45" y="100" fill="#00ff88" opacity="0.4">7</text>
-      <text x="45" y="120" fill="#00ff88" opacity="0.7">F</text>
-      <text x="45" y="140" fill="#00ff88" opacity="0.9">ﾑ</text>
-      
-      <text x="75" y="20" fill="#00ff88" opacity="0.1">3</text>
-      <text x="75" y="40" fill="#00ff88" opacity="0.3">0</text>
-      <text x="75" y="60" fill="#00ff88" opacity="0.5">1</text>
-      <text x="75" y="80" fill="#00ff88" opacity="0.8">Z</text>
-      <text x="75" y="100" fill="#00ff88" opacity="0.9">ﾒ</text>
-      
-      <text x="105" y="110" fill="#00ff88" opacity="0.3">C</text>
-      <text x="105" y="130" fill="#00ff88" opacity="0.6">Y</text>
-      <text x="105" y="150" fill="#00ff88" opacity="0.9">P</text>
-      
-      <text x="145" y="30" fill="#00ff88" opacity="0.2">0</text>
-      <text x="145" y="50" fill="#00ff88" opacity="0.4">1</text>
-      <text x="145" y="70" fill="#00ff88" opacity="0.8">H</text>
-      
-      <text x="185" y="70" fill="#00ff88" opacity="0.2">9</text>
-      <text x="185" y="90" fill="#00ff88" opacity="0.5">D</text>
-      <text x="185" y="110" fill="#00ff88" opacity="0.8">5</text>
-      <text x="185" y="130" fill="#00ff88" opacity="0.9">ﾚ</text>
-
-      <!-- Right side columns -->
-      <text x="665" y="50" fill="#00ff88" opacity="0.2">K</text>
-      <text x="665" y="70" fill="#00ff88" opacity="0.5">A</text>
-      <text x="665" y="90" fill="#00ff88" opacity="0.8">L</text>
-      <text x="665" y="110" fill="#00ff88" opacity="0.9">I</text>
-
-      <text x="705" y="100" fill="#00ff88" opacity="0.3">8</text>
-      <text x="705" y="120" fill="#00ff88" opacity="0.6">9</text>
-      <text x="705" y="140" fill="#00ff88" opacity="0.8">S</text>
-      <text x="705" y="160" fill="#00ff88" opacity="0.9">0</text>
-      
-      <text x="745" y="30" fill="#00ff88" opacity="0.1">0</text>
-      <text x="745" y="50" fill="#00ff88" opacity="0.3">1</text>
-      <text x="745" y="70" fill="#00ff88" opacity="0.6">X</text>
-      <text x="745" y="90" fill="#00ff88" opacity="0.9">ﾂ</text>
-
-      <text x="775" y="80" fill="#00ff88" opacity="0.3">F</text>
-      <text x="775" y="100" fill="#00ff88" opacity="0.5">E</text>
-      <text x="775" y="120" fill="#00ff88" opacity="0.8">D</text>
-      
-      <text x="815" y="40" fill="#00ff88" opacity="0.2">M</text>
-      <text x="815" y="60" fill="#00ff88" opacity="0.4">L</text>
-      <text x="815" y="80" fill="#00ff88" opacity="0.9">⚙</text>
-    </g>
-
-    <!-- Glowing Vector Art border highlights -->
-    <path d="M 10 30 L 10 10 L 30 10" stroke="#00ff88" stroke-width="2" opacity="0.8" />
-    <path d="M 840 30 L 840 10 L 820 10" stroke="#00ff88" stroke-width="2" opacity="0.8" />
-    <path d="M 10 210 L 10 230 L 30 230" stroke="#00ff88" stroke-width="2" opacity="0.8" />
-    <path d="M 840 210 L 840 230 L 820 230" stroke="#00ff88" stroke-width="2" opacity="0.8" />
-
-    <!-- Name Heading (Sanitizer-proof Neon Glow effect using layered SVG text) -->
-    <text x="425" y="97" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
-    <text x="425" y="93" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
-    <text x="423" y="95" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
-    <text x="427" y="95" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
-    <text x="425" y="95" text-anchor="middle" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4">KUSHAL SONI</text>
-    
-    <!-- Neon Separator Line (Sanitizer-proof Glow using layered strokes) -->
-    <line x1="200" y1="125" x2="650" y2="125" stroke="#00ff88" stroke-width="6" stroke-linecap="round" opacity="0.25" />
-    <line x1="200" y1="125" x2="650" y2="125" stroke="#00ff88" stroke-width="2" stroke-linecap="round" />
-    
-    <!-- Subtitle (The 3 Taglines) -->
-    <text x="425" y="160" text-anchor="middle" fill="#00ff88" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" font-weight="bold" letter-spacing="2" opacity="0.9">CYBERSECURITY ENGINEER  •  AI/ML BUILDER  •  THREAT HUNTER</text>
-  </svg>
+  <img src="https://github.com/Kushal-soni-official.png?size=150" width="140" alt="Kushal Soni" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TYPING ANIMATION
-═══════════════════════════════════════════════════════════════ -->
+<!-- SOCIAL QUICK-ACCESS BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=00FF88&background=03050800&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player;%3E+Anonymous;%3E+Dominator;%3E+The+one+who+left+it+all+behind" alt="Typing SVG" />
+  <a href="https://github.com/Kushal-soni-official">
+    <img src="https://img.shields.io/badge/%40Kushal--soni--official-181717?style=for-the-badge&logo=github&logoColor=00ff88" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kushal-soni-750340345">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/kusharusan">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2030%25-1C1C1C?style=for-the-badge&logo=tryhackme&logoColor=88cc14" />
+  </a>
+  &nbsp;
+  <a href="mailto:kushalsoniofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+<br/>
+
+<!-- TYPING ANIMATION — enhanced multi-line rotating taglines -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder;%3E+Anonymous+%7C+Dominator;%3E+The+one+who+left+it+all+behind..." alt="Typing SVG" />
+</p>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      LIVE TIME SYSTEM STATS (Enhanced Buttons)
@@ -211,16 +151,14 @@
 
 <br/><br/>
 
-> **Stack** &nbsp; `Kali Linux` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `Python`
+<blockquote><b>Stack</b> &nbsp; <code>Kali Linux</code> &nbsp;·&nbsp; <code>Nmap</code> &nbsp;·&nbsp; <code>Wireshark</code> &nbsp;·&nbsp; <code>Python</code></blockquote>
 
 <br/>
 
-```
- ⫸  Executed ethical hacking operations, packet capture
-    analysis & MITM attack simulations
+<pre><code> ⫸  Executed ethical hacking operations, packet capture
+    analysis &amp; MITM attack simulations
  ⫸  Engineered CyberScan Lite — lightweight Python GUI
-    automating host detection & OS fingerprinting
-```
+    automating host detection &amp; OS fingerprinting</code></pre>
 
 <br/>
 
@@ -241,16 +179,14 @@
 
 <br/><br/>
 
-> **Stack** &nbsp; `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Power Query`
+<blockquote><b>Stack</b> &nbsp; <code>Power BI</code> &nbsp;·&nbsp; <code>DAX</code> &nbsp;·&nbsp; <code>Power Query</code></blockquote>
 
 <br/>
 
-```
- ⫸  Analyzed real-world banking fraud datasets —
+<pre><code> ⫸  Analyzed real-world banking fraud datasets —
     documented 85% YoY surge in fraud cases
- ⫸  Built custom DAX measures & Power Query
-    transformations for dynamic risk-assessment dashboards
-```
+ ⫸  Built custom DAX measures &amp; Power Query
+    transformations for dynamic risk-assessment dashboards</code></pre>
 
 <br/>
 
@@ -271,16 +207,14 @@
 
 <br/><br/>
 
-> **Stack** &nbsp; `PyTorch` &nbsp;·&nbsp; `TF-IDF` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `Python`
+<blockquote><b>Stack</b> &nbsp; <code>PyTorch</code> &nbsp;·&nbsp; <code>TF-IDF</code> &nbsp;·&nbsp; <code>scikit-learn</code> &nbsp;·&nbsp; <code>Python</code></blockquote>
 
 <br/>
 
-```
- ⫸  Trained predictive ML models using TF-IDF
-    vectorization & PyTorch neural networks
+<pre><code> ⫸  Trained predictive ML models using TF-IDF
+    vectorization &amp; PyTorch neural networks
  ⫸  Achieved 90.91% test accuracy on AI classification
-    systems tailored for threat detection
-```
+    systems tailored for threat detection</code></pre>
 
 <br/>
 
