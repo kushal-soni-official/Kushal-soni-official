@@ -2,12 +2,10 @@
      HEADER — HIGH IMPACT MATRIX HEADER
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- TOP WAVE BANNER with neon matrix gradient and twinkling animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:010305,35:020a05,60:031a08,85:052e10,100:00ff88&height=340&section=header&text=KUSHAL%20SONI&fontSize=88&fontColor=00ff88&fontAlignY=40&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=63&descSize=17&animation=twinkling&stroke=00ff88&strokeWidth=3&theme=tokyonight" />
+<!-- TOP WAVE BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,85:0a1f0e,100:00ff88&height=300&section=header&text=KUSHAL%20SONI&fontSize=82&fontColor=00ff88&fontAlignY=42&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=65&descSize=16&animation=twinkling&stroke=00ff88&strokeWidth=2" />
 
-
-
-<!-- TYPING ANIMATION — enhanced multi-line rotating taglines -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder;%3E+Anonymous+%7C+Dominator;%3E+The+one+who+left+it+all+behind..." alt="Typing SVG" />
 </p>
@@ -19,11 +17,11 @@
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=Profile+Views&color=00ff88&style=for-the-badge&logo=eye" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=Followers&color=00ff88&style=for-the-badge&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=FOLLOWERS&color=00ff88&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00ff88" alt="GitHub Followers" />
   </a>
 </p>
 
