@@ -17,7 +17,7 @@
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <a href="https://github.com/Kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00ff88" alt="Profile Views" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Kushal-soni-official">
