@@ -3,11 +3,11 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- TOP WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,85:0a1f0e,100:00ff88&height=300&section=header&text=KUSHAL%20SONI&fontSize=82&fontColor=00ff88&fontAlignY=42&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Threat%20Hunter%20%20%E2%9A%A1&descAlignY=65&descSize=16&animation=twinkling&stroke=00ff88&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,85:0a1f0e,100:00ff88&height=300&section=header&text=KUSHAL%20SONI&fontSize=82&fontColor=00ff88&fontAlignY=42&fontAlign=50&desc=%E2%9A%A1%20%20Cybersecurity%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20VAPT%20ANALYST%20%20%E2%9A%A1&descAlignY=65&descSize=16&animation=twinkling&stroke=00ff88&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder;%3E+Anonymous+%7C+Dominator;%3E+The+one+who+left+it+all+behind..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder" alt="Typing SVG" />
 </p>
 
 
