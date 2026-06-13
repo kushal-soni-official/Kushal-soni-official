@@ -1,34 +1,137 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     HEADER — MATRIX VENOM 3D  (Blood Red × Neon Green × Dark)
+     HEADER — MATRIX FALLING CODE (Clean, Dark, Neon Green & Crisp)
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff3355,35:1a0008,65:030508,100:00ff88&height=300&section=header&text=KUSHAL%20SONI&fontSize=80&fontColor=00ff88&animation=twinkling&fontAlignY=42&fontAlign=50&stroke=ff3355&strokeWidth=1.5&desc=%E2%96%88%E2%96%88%20Cybersecurity%20Engineer%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20AI%2FML%20Builder%20%E2%96%88%E2%96%88&descAlignY=68&descColor=ff3355&descSize=14" />
+<p align="center">
+  <svg width="100%" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg" style="background:#030508; border-radius:12px; border: 1px solid #111a14;">
+    <!-- Grid System Overlay -->
+    <defs>
+      <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+        <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(0, 255, 136, 0.02)" stroke-width="1"/>
+      </pattern>
+    </defs>
+    <rect width="850" height="240" fill="url(#grid)" />
+
+    <!-- Matrix Code Rain columns - Simulated with varying opacity & length -->
+    <g opacity="0.35" font-family="Courier, monospace" font-size="11" font-weight="bold">
+      <!-- Left side columns -->
+      <text x="15" y="40" fill="#00ff88" opacity="0.1">0</text>
+      <text x="15" y="60" fill="#00ff88" opacity="0.3">1</text>
+      <text x="15" y="80" fill="#00ff88" opacity="0.5">X</text>
+      <text x="15" y="100" fill="#00ff88" opacity="0.8">9</text>
+      <text x="15" y="120" fill="#00ff88" opacity="0.9">ｱ</text>
+      
+      <text x="45" y="80" fill="#00ff88" opacity="0.2">A</text>
+      <text x="45" y="100" fill="#00ff88" opacity="0.4">7</text>
+      <text x="45" y="120" fill="#00ff88" opacity="0.7">F</text>
+      <text x="45" y="140" fill="#00ff88" opacity="0.9">ﾑ</text>
+      
+      <text x="75" y="20" fill="#00ff88" opacity="0.1">3</text>
+      <text x="75" y="40" fill="#00ff88" opacity="0.3">0</text>
+      <text x="75" y="60" fill="#00ff88" opacity="0.5">1</text>
+      <text x="75" y="80" fill="#00ff88" opacity="0.8">Z</text>
+      <text x="75" y="100" fill="#00ff88" opacity="0.9">ﾒ</text>
+      
+      <text x="105" y="110" fill="#00ff88" opacity="0.3">C</text>
+      <text x="105" y="130" fill="#00ff88" opacity="0.6">Y</text>
+      <text x="105" y="150" fill="#00ff88" opacity="0.9">P</text>
+      
+      <text x="145" y="30" fill="#00ff88" opacity="0.2">0</text>
+      <text x="145" y="50" fill="#00ff88" opacity="0.4">1</text>
+      <text x="145" y="70" fill="#00ff88" opacity="0.8">H</text>
+      
+      <text x="185" y="70" fill="#00ff88" opacity="0.2">9</text>
+      <text x="185" y="90" fill="#00ff88" opacity="0.5">D</text>
+      <text x="185" y="110" fill="#00ff88" opacity="0.8">5</text>
+      <text x="185" y="130" fill="#00ff88" opacity="0.9">ﾚ</text>
+
+      <!-- Right side columns -->
+      <text x="665" y="50" fill="#00ff88" opacity="0.2">K</text>
+      <text x="665" y="70" fill="#00ff88" opacity="0.5">A</text>
+      <text x="665" y="90" fill="#00ff88" opacity="0.8">L</text>
+      <text x="665" y="110" fill="#00ff88" opacity="0.9">I</text>
+
+      <text x="705" y="100" fill="#00ff88" opacity="0.3">8</text>
+      <text x="705" y="120" fill="#00ff88" opacity="0.6">9</text>
+      <text x="705" y="140" fill="#00ff88" opacity="0.8">S</text>
+      <text x="705" y="160" fill="#00ff88" opacity="0.9">0</text>
+      
+      <text x="745" y="30" fill="#00ff88" opacity="0.1">0</text>
+      <text x="745" y="50" fill="#00ff88" opacity="0.3">1</text>
+      <text x="745" y="70" fill="#00ff88" opacity="0.6">X</text>
+      <text x="745" y="90" fill="#00ff88" opacity="0.9">ﾂ</text>
+
+      <text x="775" y="80" fill="#00ff88" opacity="0.3">F</text>
+      <text x="775" y="100" fill="#00ff88" opacity="0.5">E</text>
+      <text x="775" y="120" fill="#00ff88" opacity="0.8">D</text>
+      
+      <text x="815" y="40" fill="#00ff88" opacity="0.2">M</text>
+      <text x="815" y="60" fill="#00ff88" opacity="0.4">L</text>
+      <text x="815" y="80" fill="#00ff88" opacity="0.9">⚙</text>
+    </g>
+
+    <!-- Glowing Vector Art border highlights -->
+    <path d="M 10 30 L 10 10 L 30 10" stroke="#00ff88" stroke-width="2" opacity="0.8" />
+    <path d="M 840 30 L 840 10 L 820 10" stroke="#00ff88" stroke-width="2" opacity="0.8" />
+    <path d="M 10 210 L 10 230 L 30 230" stroke="#00ff88" stroke-width="2" opacity="0.8" />
+    <path d="M 840 210 L 840 230 L 820 230" stroke="#00ff88" stroke-width="2" opacity="0.8" />
+
+    <!-- Name Heading (Sanitizer-proof Neon Glow effect using layered SVG text) -->
+    <text x="425" y="97" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
+    <text x="425" y="93" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
+    <text x="423" y="95" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
+    <text x="427" y="95" text-anchor="middle" fill="#00ff88" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4" opacity="0.3">KUSHAL SONI</text>
+    <text x="425" y="95" text-anchor="middle" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="900" letter-spacing="4">KUSHAL SONI</text>
+    
+    <!-- Neon Separator Line (Sanitizer-proof Glow using layered strokes) -->
+    <line x1="200" y1="125" x2="650" y2="125" stroke="#00ff88" stroke-width="6" stroke-linecap="round" opacity="0.25" />
+    <line x1="200" y1="125" x2="650" y2="125" stroke="#00ff88" stroke-width="2" stroke-linecap="round" />
+    
+    <!-- Subtitle (The 3 Taglines) -->
+    <text x="425" y="160" text-anchor="middle" fill="#00ff88" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" font-weight="bold" letter-spacing="2" opacity="0.9">CYBERSECURITY ENGINEER  •  AI/ML BUILDER  •  THREAT HUNTER</text>
+  </svg>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TYPING ANIMATION — Matches portfolio typing phrases
+     TYPING ANIMATION
 ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1200&color=00FF88&background=03050800&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player;%3E+Anonymous;%3E+Dominator;%3E+The+one+who+left+it+all+behind" alt="Typing SVG" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════
+     LIVE TIME SYSTEM STATS (Enhanced Buttons)
+═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=Profile+Views&color=00ff88&style=flat-square" alt="Profile Views" />
+  <a href="https://github.com/Kushal-soni-official">
+    <img src="https://komarev.com/ghpvc/?username=Kushal-soni-official&label=Profile+Views&color=00ff88&style=for-the-badge&logo=eye" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kushal-soni-official">
+    <img src="https://img.shields.io/github/followers/Kushal-soni-official?label=Followers&color=00ff88&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kushal-soni-official?tab=repositories">
+    <img src="https://img.shields.io/github/stars-of-user/Kushal-soni-official?label=Total+Stars&color=00ff88&style=for-the-badge&logo=github" alt="Total Stars" />
+  </a>
+  &nbsp;
+  <a href="https://tryhackme.com/p/kusharusan">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%2030%25-00ff88?style=for-the-badge&logo=tryhackme" alt="TryHackMe Rank" />
+  </a>
 </p>
 
 <br/>
 
 ---
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════
-     SKILL ARSENAL — WEAPON CACHE
+     SKILL ARSENAL
 ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%E2%96%B6%20WEAPON%20CACHE-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Skill Arsenal
+## 🧰 Skill Arsenal — Tools & Technologies
 
 <br/>
 
-<h4 align="center">⌨️ &nbsp; LANGUAGES  &  CORE STACK</h4>
+<p align="center"><b>⌨️ Languages & Core Stack</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-030508?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -43,7 +146,7 @@
 
 <br/><br/>
 
-<h4 align="center">🤖 &nbsp; AI  &  MACHINE LEARNING</h4>
+<p align="center"><b>🤖 AI & Machine Learning</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-030508?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
@@ -56,7 +159,7 @@
 
 <br/><br/>
 
-<h4 align="center">🛡️ &nbsp; CYBERSECURITY</h4>
+<p align="center"><b>🛡️ Cybersecurity</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-030508?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
@@ -70,7 +173,7 @@
 
 <br/><br/>
 
-<h4 align="center">🔧 &nbsp; TOOLS, CLOUD  &  ANALYTICS</h4>
+<p align="center"><b>🔧 Tools, Cloud & Analytics</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-030508?style=for-the-badge&logo=git&logoColor=F05032" />
@@ -90,7 +193,7 @@
      WORK EXPERIENCE — BATTLE RECORD (ENHANCED CARD DESIGN)
 ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%E2%96%B6%20BATTLE%20RECORD-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Work Experience
+## ⚔️ Battle Record — Work Experience
 
 <br/>
 
@@ -191,10 +294,10 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
-     ACTIVITY GRAPH — SIGNAL TRACE  (Portfolio-matched colors)
+     ACTIVITY GRAPH — SIGNAL TRACE
 ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%E2%96%B6%20SIGNAL%20TRACE-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Contribution Activity
+## 📡 Signal Trace — Contribution Activity
 
 <br/>
 
@@ -210,7 +313,7 @@
      CONNECT
 ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://img.shields.io/badge/-%E2%96%B6%20CONNECT-030508?style=for-the-badge&logoColor=00ff88" /> &nbsp; Get In Touch
+## 📬 Get In Touch
 
 <p align="center">
   <a href="mailto:kushalsoniofficial@gmail.com">
@@ -231,6 +334,6 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     FOOTER WAVE  (Portfolio-matched gradient)
+     FOOTER MATRIX WAVE
 ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,35:030508,65:1a0008,100:ff3355&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030508,100:00ff88&height=120&section=footer" />
