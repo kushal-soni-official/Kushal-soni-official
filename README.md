@@ -7,7 +7,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder;%3E+Anonymous+%7C+Dominator;%3E+The+one+who+left+it+all+behind..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=45&lines=%5B+ACCESS+GRANTED+%5D;%3E+Cybersecurity+Enthusiast;%3E+Penetration+Tester;%3E+Ethical+Hacker;%3E+CTF+Player+%26+Solver;%3E+AI+%2F+ML+Builder;%3E+Anonymous+%7C+Dominator" alt="Typing SVG" />
 </p>
 
 
