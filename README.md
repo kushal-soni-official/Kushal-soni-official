@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     README v3.4 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
+     README v3.5 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ▓▓▓ HEADER — Matrix animated bg + KUSHAL SONI glowing text (committed SVG, SMIL animated) ▓▓▓ -->
@@ -13,29 +13,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=42&lines=%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Tagline typing animation" />
 </p>
 
-<!-- ▓▓▓ BUTTONS — Both shields.io native = IDENTICAL rendering ▓▓▓ -->
+<!-- ▓▓▓ BUTTONS — Both using default label background to match perfectly ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
-    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&color=041a0e&style=for-the-badge&labelColor=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=041a0e&labelColor=041a0e&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=041a0e&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Ofc.kusharu%40gmail.com-041a0e?style=for-the-badge&logo=gmail&logoColor=ff003c&labelColor=041a0e" alt="Email — Ofc.kusharu@gmail.com" />
+    <img src="https://img.shields.io/badge/Ofc.kusharu%40gmail.com-041a0e?style=for-the-badge&logo=gmail&logoColor=ff003c" alt="Email — Ofc.kusharu@gmail.com" />
   </a>
 </p>
 
-<!-- ONE NEON DIVIDER before sections -->
+<br/>
+
+### `▸` About Me
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
-
----
-
-## `▸` About Me
 
 <br/>
 
@@ -51,72 +49,58 @@
 
 > *"Going to work" is an attitude, not a location. Being a hacker means being able to master anything you want. Happy Hacker's day ✓ ...*
 
+<br/>
+
+### `▸` Technical Stack
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Technical Stack
+<br/>
+
+#### ◈ Languages & Core
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /> | <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> | <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> | <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> |
 
 <br/>
 
-<p align="center"><b>◈ Languages & Core</b></p>
+#### ◈ Cybersecurity & Offensive Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" /> | <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /> | <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" /> |
+| <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" /> | <img src="https://img.shields.io/badge/SHA--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=3C8CA3" alt="SHA-256" /> | <img src="https://img.shields.io/badge/Windows_Registry_API-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows Registry API" /> |
 
 <br/>
 
-<p align="center"><b>◈ Cybersecurity & Offensive Tools</b></p>
+#### ◈ AI, ML & Security Intelligence
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SHA--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=3C8CA3" alt="SHA-256" />
-  <img src="https://img.shields.io/badge/Windows_Registry_API-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows Registry API" />
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /> | <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /> | <img src="https://img.shields.io/badge/TF--IDF_NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" alt="TF-IDF NLP" /> |
+| <img src="https://img.shields.io/badge/Google_ADK-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google ADK" /> | <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" /> | <img src="https://img.shields.io/badge/Groq_API-0d1117?style=for-the-badge&logo=groq&logoColor=F55036" alt="Groq API" /> |
 
 <br/>
 
-<p align="center"><b>◈ AI, ML & Security Intelligence</b></p>
+#### ◈ Web, API & Data
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TF--IDF_NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" alt="TF-IDF NLP" />
-  <img src="https://img.shields.io/badge/Google_ADK-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Groq_API-0d1117?style=for-the-badge&logo=groq&logoColor=F55036" alt="Groq API" />
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /> | <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" /> | <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=4ea4d4" alt="SQLite" /> |
+| <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" /> | <img src="https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" /> | |
 
 <br/>
 
-<p align="center"><b>◈ Web, API & Data</b></p>
+#### ◈ DevOps & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=4ea4d4" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
-</p>
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> | <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /> | <img src="https://img.shields.io/badge/Antigravity_CLI-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity CLI" /> |
 
 <br/>
 
-<p align="center"><b>◈ DevOps & Tools</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Antigravity_CLI-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity CLI" />
-</p>
-
+### `▸` Projects
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
-
-## `▸` Projects
 
 <br/>
 
@@ -284,15 +268,15 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   </a>
 </p>
 
+<br/>
+
+### `▸` Work Experience
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Work Experience
-
 <br/>
 
-<details>
-<summary><b>🔴 Cybersecurity Intern &nbsp;—&nbsp; Vodafone Idea Foundation (VOIS) · via AICTE &nbsp;|&nbsp; Mar 2026 – Apr 2026</b></summary>
-<br/>
+#### 🔴 Cybersecurity Intern &nbsp;—&nbsp; Vodafone Idea Foundation (VOIS)
+> **via AICTE &nbsp;|&nbsp; Mar 2026 – Apr 2026**
 
 **Stack:** &nbsp; `Kali Linux` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `MITM Simulation`
 
@@ -301,11 +285,9 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 - Gained hands-on penetration testing experience using industry-standard tooling on Kali Linux
 
 <br/>
-</details>
 
-<details>
-<summary><b>🔵 Data Analytics Intern &nbsp;—&nbsp; Microsoft Elevate Program · via AICTE &nbsp;|&nbsp; Feb 2026 – Mar 2026</b></summary>
-<br/>
+#### 🔵 Data Analytics Intern &nbsp;—&nbsp; Microsoft Elevate Program
+> **via AICTE &nbsp;|&nbsp; Feb 2026 – Mar 2026**
 
 **Stack:** &nbsp; `Power BI` &nbsp;·&nbsp; `DAX` &nbsp;·&nbsp; `Power Query` &nbsp;·&nbsp; `Data Visualization`
 
@@ -314,11 +296,9 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 - Designed executive-level dashboards surfacing fraud hotspots and transaction anomalies
 
 <br/>
-</details>
 
-<details>
-<summary><b>🟡 AI/ML Intern &nbsp;—&nbsp; IBM SkillsBuild · via AICTE &nbsp;|&nbsp; Jan 2026 – Feb 2026</b></summary>
-<br/>
+#### 🟡 AI/ML Intern &nbsp;—&nbsp; IBM SkillsBuild
+> **via AICTE &nbsp;|&nbsp; Jan 2026 – Feb 2026**
 
 **Stack:** &nbsp; `PyTorch` &nbsp;·&nbsp; `TF-IDF` &nbsp;·&nbsp; `scikit-learn` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `NLP`
 
@@ -327,11 +307,9 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 - Applied machine learning to real-world cybersecurity threat detection use cases
 
 <br/>
-</details>
 
+### `▸` Education
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
-
-## `▸` Education
 
 <br/>
 
@@ -341,16 +319,17 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 📘 XII Senior Secondary — UP Board | 2024 | **89%** |
 | 📗 X Secondary — UP Board | 2022 | 80.3% |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
+<br/>
 
-## `▸` Certifications & Achievements
+### `▸` Certifications & Achievements
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 <br/>
 
 | Certification / Achievement | Issuer | Details |
 |:---------------------------|:-------|:--------|
 | 🏅 Ethical Hacking — 12-Week Course | **NPTEL · IIT Kharagpur** | **Elite Performer** · Jul–Oct 2025 |
-| 🏆 **Certificate of Excellence** — Open Source Hackathon | **Enginow** | Winner · Open Source Track |
+| 🏆 **Certificate of Excellence** — Open Source Hackathon | **Enginow** | Open Source Track |
 | 🤝 Artificial Intelligence & Machine Learning | **Microsoft** | AI & ML Course Certificate |
 | 🤖 Build Reliable Agentic AI Applications | **Google / Kaggle** | Agentic AI & ADK Intensive |
 | 🌐 10-Day AI Bootcamp | **Techpile Technologies** | Applied AI & Development |
@@ -358,9 +337,10 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 💼 Young Professional Program | **TCS ION Career Edge** | Dec 2025 – Jun 2026 |
 | 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
+<br/>
 
-## `▸` Language Proficiencies
+### `▸` Language Proficiencies
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 <br/>
 
@@ -375,9 +355,10 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
+<br/>
 
-## `▸` Contribution Activity
+### `▸` Contribution Activity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 <br/>
 
@@ -391,9 +372,10 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   <img src="https://raw.githubusercontent.com/kushal-soni-official/kushal-soni-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
+<br/>
 
-## `▸` Get In Touch
+### `▸` Get In Touch
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 <br/>
 
@@ -421,5 +403,5 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   </a>
 </p>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:041a0e,100:050510&height=120&section=footer" alt="Footer wave" />
+<!-- ▓▓▓ FOOTER MATRIX SVG ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/footer.svg" alt="Footer Matrix" />
