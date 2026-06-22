@@ -379,6 +379,8 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 ## `▸` Get In Touch
 
+</br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/kushal-soni-750340345/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
