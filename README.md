@@ -35,12 +35,11 @@
 
 ## `▸` About Me
 
-- 🎓 **Computer Science & Engineering Graduate** — at the intersection of **offensive security** and **artificial intelligence**
+- 🎓 **Computer Science & Engineering Student** — at the intersection of **Cybersecurity** and **Artificial Intelligence**
 - 🔐 Crafting **AI-powered security tools on zero budget** — because real skill needs no subscription
 - ⚔️ Focused on **Cybersecurity & Ethical Hacking** — from Kali Linux penetration tests to multi-agent AI defense pipelines
-- 🤖 Trained predictive ML models achieving **90.91% accuracy** on security classification tasks
+- 🤖 Trained predictive ML models & Neural Networks achieving **90.91% & 95.61% accuracy** on security classification tasks
 - 🌐 Bridging **network-level exploitation** and **LLM-layer defense** — both sides of the wall
-- 🔭 Currently building: **Neural Firewall** — a 5-agent prompt injection defense system (Kaggle Gen AI Intensive 2026)
 - 💡 Financial barriers don't stop progress — every tool here was built on **free tiers, open source, and raw persistence**
 
 <br/>
@@ -195,7 +194,7 @@ Automated network scanner that maps topology, discovers open ports, fingerprints
 
 > 🏷️ **Final capstone project — IBM SkillsBuild AI &amp; ML Internship · AICTE · Jan–Feb 2026**
 
-AI-driven scam message classifier trained on real-world fraud datasets using TF-IDF vectorization and PyTorch neural networks. Detects SMS, email, and chat scam patterns with high precision.
+This is my first Github Project - an AI-driven scam message classifier trained on real-world fraud datasets using TF-IDF vectorization and PyTorch neural networks. Detects SMS, email, and chat scam patterns with high precision.
 
 <a href="https://github.com/kushal-soni-official/scam-shield">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View scam-shield repository"/>
@@ -210,7 +209,7 @@ AI-driven scam message classifier trained on real-world fraud datasets using TF-
 
 **Stack:** &nbsp; `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `Vanilla JavaScript` &nbsp;·&nbsp; `Groq API` &nbsp;·&nbsp; `Google Gemini` &nbsp;·&nbsp; `OpenRouter`
 
-Lightweight AI chat interface integrating multiple free-tier LLM providers via REST APIs — built for mobile-first performance and 3G network compatibility. Zero local hardware dependency.
+Lightweight AI chat interface integrating multiple free-tier LLM providers via REST APIs — built for all devices and works even on 3G network compatibility. Zero local hardware dependency.
 
 <a href="https://github.com/kushal-soni-official/CYPH3R">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CYPH3R repository"/>
@@ -325,7 +324,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 | Degree | Year | Result |
 |:-------|:-----|:-------|
-| 🎓 **Diploma in COMPUTER SCIENCE AND ENGINEERING** (Govt Polytechnic) | 2024 – 2026 | Graduated |
+| 🎓 **Diploma in COMPUTER SCIENCE AND ENGINEERING** | 2024 – 2026 | Graduated |
 | 📘 XII Senior Secondary — UP Board | 2024 | **89%** |
 | 📗 X Secondary — UP Board | 2022 | 80.3% |
 
@@ -340,7 +339,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 🤝 Artificial Intelligence &amp; Machine Learning | **Microsoft** | AI &amp; ML Course Certificate |
 | 🤖 Build Reliable Agentic AI Applications | **Google / Kaggle** | Agentic AI &amp; ADK Intensive |
 | 🌐 10-Day AI Bootcamp | **Techpile Technologies** | Applied AI &amp; Development |
-| 💻 Web Development | **Techpile Technologies** | HTML, CSS, JavaScript |
+| 💻 Web Development using Django (Python) | **Techpile Technologies** | HTML, CSS, JavaScript, Django, Python |
 | 💼 Young Professional Program | **TCS ION Career Edge** | Dec 2025 – Jun 2026 |
 | 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
 
@@ -354,7 +353,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 |:---:|:---:|:---:|:---:|
 | 🇬🇧 **English** | Advanced | Proficient | Proficient |
 | 🇮🇳 **Hindi** | Native | Native | Native |
-| 🇯🇵 **Japanese** | Intermediate | Intermediate | Basic |
+| 🇯🇵 **Japanese** | Basic | Intermediate | Intermediate |
 | 🇪🇸 **Spanish** | Learning | Beginner | Beginner |
 
 </div>
@@ -395,7 +394,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   </a>
   &nbsp;
   <a href="https://discord.com/users/tgl.prince">
-    <img src="https://img.shields.io/badge/Discord%20·%20tgl.prince-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+    <img src="https://img.shields.io/badge/tgl.prince-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
   </a>
 </p>
 
