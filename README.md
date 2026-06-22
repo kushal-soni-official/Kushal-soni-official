@@ -388,7 +388,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   <a href="mailto:Ofc.kusharu@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp; </br>
   <a href="https://tryhackme.com/p/kusharusan">
     <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe" />
   </a>
