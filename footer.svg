@@ -77,25 +77,25 @@
 
   <!-- Layered glow for footer text -->
   <text x="450" y="67" text-anchor="middle" font-family="'Courier New',Courier,monospace"
-        font-size="13" fill="#00ff88" opacity="0.08" letter-spacing="5">
-    STAY SECURE  ·  STAY CURIOUS  ·  KEEP HACKING
+        font-size="13" fill="#00ff88" opacity="0.08" letter-spacing="4">
+    THINK LIKE AN ATTACKER  ·  DEFEND LIKE A GUARDIAN
   </text>
   <text x="449" y="66" text-anchor="middle" font-family="'Courier New',Courier,monospace"
-        font-size="13" fill="#00ff88" opacity="0.12" letter-spacing="5">
-    STAY SECURE  ·  STAY CURIOUS  ·  KEEP HACKING
+        font-size="13" fill="#00ff88" opacity="0.12" letter-spacing="4">
+    THINK LIKE AN ATTACKER  ·  DEFEND LIKE A GUARDIAN
   </text>
 
   <text x="450" y="66" text-anchor="middle" font-family="'Courier New',Courier,monospace"
-        font-size="13" fill="#00ff88" letter-spacing="5">
-    STAY SECURE  ·  STAY CURIOUS  ·  KEEP HACKING
+        font-size="13" fill="#00ff88" letter-spacing="4">
+    THINK LIKE AN ATTACKER  ·  DEFEND LIKE A GUARDIAN
     <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
   </text>
 
   <!-- Bracket decoration -->
   <text x="450" y="48" text-anchor="middle" font-family="'Courier New',Courier,monospace"
-        font-size="10" fill="#ff003c" letter-spacing="8" opacity="0.7">
-    [ CONNECTION TERMINATED ]
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2.8s" repeatCount="indefinite" begin="0.7s"/>
+        font-size="10" fill="#00ff88" letter-spacing="6" opacity="0.7">
+    [ FIREWALL ACTIVE  ·  ALL SYSTEMS SECURE ]
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite" begin="0.7s"/>
   </text>
 
   <!-- Username line -->
