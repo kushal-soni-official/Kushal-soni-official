@@ -403,5 +403,10 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+
+<!-- ▓▓▓ HERO GIF ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni Hero Banner" />
+
 <!-- ▓▓▓ FOOTER MATRIX SVG ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/footer.svg" alt="Footer — Stay Secure, Stay Curious" />
