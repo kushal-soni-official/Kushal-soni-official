@@ -1,43 +1,31 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     README v3.1 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
+     README v3.2 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
      Theme: Neon Green (Primary) · Neon Blue (Secondary) · Blood Red (Accent)
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  LAYER 1 — VENOM ELECTRIC TOP BORDER                       ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- LAYER 1 — VENOM ELECTRIC TOP BORDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:00ff88,100:050510&height=180&section=header&text=KUSHAL%20SONI&fontSize=72&fontColor=00ff88&fontAlignY=55&animation=twinkling&stroke=00ff88&strokeWidth=3" alt="Kushal Soni — Cybersecurity and Ethical Hacking" />
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  ELECTRIC NEON BORDER LINE                                  ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,25:00ff88,50:00f5ff,75:00ff88,100:ff003c&height=4&section=header" alt="neon border" />
-
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  LAYER 2 — HACKER GIF BANNER                                ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- LAYER 2 — HERO GIF BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="6" alt="electric neon line" />
+  <img src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" width="100%" alt="Kushal Soni Hero Banner" />
 </p>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  LAYER 3 — TYPING SVG (terminal hacker boot sequence)       ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
+<!-- LAYER 3 — TYPING SVG (hacker terminal boot sequence) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=48&lines=%5B+SYSTEM+BOOT+%5D+...+Initializing+Profile;%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Typing animation — Cybersecurity, Ethical Hacker, AI Security Builder" />
 </p>
 
-<!-- ELECTRIC NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,33:00ff88,66:00f5ff,100:050510&height=3&section=header" alt="neon divider" />
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  BUTTONS — Followers + Profile Views (identical style)      ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
+<!-- BUTTONS — Followers + Profile Views (identical style) -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
     <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&color=041a0e&style=for-the-badge&labelColor=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
@@ -54,14 +42,8 @@
   </a>
 </p>
 
-<!-- ELECTRIC NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="neon divider" />
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ABOUT ME
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` About Me
 
@@ -79,11 +61,8 @@
 
 > *"Going to work" is an attitude, not a location. Being a hacker means being able to master anything you want. Happy Hacker's day ✓ ...*
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     TECHNICAL STACK — REAL TOOLS ONLY (verified from projects)
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Technical Stack
 
@@ -146,11 +125,8 @@
   <img src="https://img.shields.io/badge/Antigravity_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity CLI" />
 </p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     PROJECTS
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Projects
 
@@ -303,7 +279,7 @@ Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in f
 
 **Stack:** &nbsp; `Python` &nbsp;·&nbsp; `Cryptography` &nbsp;·&nbsp; `AES Encryption` &nbsp;·&nbsp; `Fernet`
 
-A command-line file encryption and decryption vault using strong symmetric cryptographic algorithms (AES via Fernet). Designed for secure local file storage — encrypt sensitive files before uploading to any cloud or sharing medium. Zero third-party dependencies beyond the `cryptography` library.
+A command-line file encryption and decryption vault using strong symmetric cryptographic algorithms (AES via Fernet). Designed for secure local file storage — encrypt sensitive files before uploading to any cloud or sharing medium.
 
 <a href="https://github.com/kushal-soni-official/CryptVault">
   <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CryptVault repository"/>
@@ -320,11 +296,8 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   </a>
 </p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     WORK EXPERIENCE
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Work Experience
 
@@ -337,7 +310,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 **Stack:** &nbsp; `Kali Linux` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `MITM Simulation`
 
 - Executed ethical hacking operations, live packet capture analysis, and man-in-the-middle attack simulations on sandboxed networks
-- Engineered **CyberScan Lite** as the capstone project — Python GUI automating host detection and OS fingerprinting without admin rights
+- Engineered **CyberScan Lite** as the capstone — Python GUI automating host detection and OS fingerprinting without admin rights
 - Gained hands-on penetration testing experience using industry-standard tooling on Kali Linux
 
 <br/>
@@ -369,11 +342,8 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 <br/>
 </details>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     EDUCATION
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Education
 
@@ -385,11 +355,8 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 📘 XII Senior Secondary | UP Board | 2024 | **89%** |
 | 📗 X Secondary | UP Board | 2022 | 80.3% |
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     CERTIFICATIONS & ACHIEVEMENTS
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Certifications & Achievements
 
@@ -408,32 +375,26 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 🏆 Tradition Hacks 2026 | **Hackathon** | Participant & Builder |
 | 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     LANGUAGE PROFICIENCIES
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Language Proficiencies
 
 <br/>
 
-<p align="center">
+<div align="center">
 
 | Language | Speaking | Reading | Writing |
-|:---------|:---------|:--------|:--------|
-| 🇬🇧 English | Advanced | Proficient | Proficient |
-| 🇮🇳 Hindi | Native | Native | Native |
-| 🇯🇵 Japanese | Intermediate | Intermediate | Basic |
-| 🇪🇸 Spanish | Learning | Beginner | Beginner |
+|:---:|:---:|:---:|:---:|
+| 🇬🇧 **English** | Advanced | Proficient | Proficient |
+| 🇮🇳 **Hindi** | Native | Native | Native |
+| 🇯🇵 **Japanese** | Intermediate | Intermediate | Basic |
+| 🇪🇸 **Spanish** | Learning | Beginner | Beginner |
 
-</p>
+</div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     CONTRIBUTION ACTIVITY + SNAKE
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Contribution Activity
 
@@ -445,16 +406,12 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <br/>
 
-<!-- SNAKE ANIMATION — runs daily via .github/workflows/snake.yml -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kushal-soni-official/kushal-soni-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GET IN TOUCH
-═══════════════════════════════════════════════════════════════ -->
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
 ## `▸` Get In Touch
 
@@ -483,9 +440,6 @@ A command-line file encryption and decryption vault using strong symmetric crypt
     <img src="https://img.shields.io/badge/tgl.prince-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord tgl.prince" />
   </a>
 </p>
-
-<!-- ELECTRIC NEON BOTTOM BORDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,33:ff003c,66:00ff88,100:050510&height=4&section=footer" alt="neon bottom border" />
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:041a0e,100:050510&height=120&section=footer" alt="Footer wave" />
