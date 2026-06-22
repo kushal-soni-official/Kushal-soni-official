@@ -50,6 +50,8 @@
 
 ## `▸` Technical Stack
 
+</br>
+
 <p align="center"><b>◈ Languages &amp; Core</b></p>
 
 <p align="center">
