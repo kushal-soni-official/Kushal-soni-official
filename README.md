@@ -1,31 +1,26 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     README v3.3 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
+     README v3.4 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ▓▓▓ LAYER 1 — VENOM TOP ANIMATED BORDER (no text — GIF handles hero) ▓▓▓ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:041a0e,100:050510&height=80&section=header" alt="neon venom border" />
+<!-- ▓▓▓ HEADER — Matrix animated bg + KUSHAL SONI glowing text (committed SVG, SMIL animated) ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/header.svg" alt="Kushal Soni — Cybersecurity and AI Security Builder" />
 
-<!-- ▓▓▓ LAYER 2 — HERO GIF (autoplays by default) ▓▓▓ -->
-<img src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" width="100%" alt="Kushal Soni Hero Banner" />
+<!-- ▓▓▓ HERO GIF — autoplays below header ▓▓▓ -->
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni Hero Banner" />
 
-<!-- ▓▓▓ LAYER 3 — BRUTEFORCE DECODING ANIMATION for KUSHAL SONI ▓▓▓ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=52&duration=350&pause=3200&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%23%23%23%23%23%23+%23%23%23%23;K%23%23%23%23%23+%23%23%23%23;KU%23%23%23%23+%23%23%23%23;KUS%23%23%23+%23%23%23%23;KUSH%23%23+%23%23%23%23;KUSHAL+%23%23%23%23;KUSHAL+S%23%23%23;KUSHAL+SO%23%23;KUSHAL+SON%23;KUSHAL+SONI" alt="Kushal Soni bruteforce decode animation" />
-</p>
-
-<!-- ▓▓▓ LAYER 4 — TAGLINE TYPING SVG ▓▓▓ -->
+<!-- ▓▓▓ TAGLINE TYPING ANIMATION ▓▓▓ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=42&lines=%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Tagline typing animation" />
 </p>
 
-<!-- ▓▓▓ BUTTONS — Both shields.io rendered = IDENTICAL styling ▓▓▓ -->
+<!-- ▓▓▓ BUTTONS — Both shields.io native = IDENTICAL rendering ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
     <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&color=041a0e&style=for-the-badge&labelColor=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://img.shields.io/badge/dynamic/json?color=041a0e&labelColor=041a0e&style=for-the-badge&logo=github&logoColor=00ff88&label=PROFILE+VIEWS&query=%24.count&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dkushal-soni-official%26format%3Djson" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=041a0e&labelColor=041a0e&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
@@ -35,14 +30,12 @@
   </a>
 </p>
 
-<!-- ONE NEON DIVIDER before content starts -->
+<!-- ONE NEON DIVIDER before sections -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ABOUT ME
-═══════════════════════════════════════════════════════════════ -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20ABOUT%20ME&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="About Me" />
+## `▸` About Me
 
 <br/>
 
@@ -60,11 +53,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TECHNICAL STACK
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20TECHNICAL%20STACK&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Technical Stack" />
+## `▸` Technical Stack
 
 <br/>
 
@@ -86,7 +75,7 @@
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SHA--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=003A70" alt="SHA-256 Cryptography" />
+  <img src="https://img.shields.io/badge/SHA--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=3C8CA3" alt="SHA-256" />
   <img src="https://img.shields.io/badge/Windows_Registry_API-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows Registry API" />
 </p>
 
@@ -110,7 +99,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
   <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=4ea4d4" alt="SQLite" />
   <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
 </p>
@@ -127,11 +116,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     PROJECTS
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20PROJECTS&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Projects" />
+## `▸` Projects
 
 <br/>
 
@@ -171,7 +156,7 @@ A multi-layer Windows spyware scanner targeting keylogger signatures across thre
 
 **Stack:** &nbsp; `Python` &nbsp;·&nbsp; `TF-IDF` &nbsp;·&nbsp; `Pattern Matching` &nbsp;·&nbsp; `NLP Sanitization`
 
-A pure-Python security library acting as a pre-processing firewall for LLM-powered applications. Detects and neutralizes prompt injection, jailbreak attempts, and adversarial input patterns before they reach the language model processing layer. Designed for zero-dependency deployment.
+A pure-Python security library acting as a pre-processing firewall for LLM-powered applications. Detects and neutralizes prompt injection, jailbreak attempts, and adversarial input patterns before they reach the language model processing layer.
 
 <a href="https://github.com/kushal-soni-official/prompt_injection_detector">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View prompt_injection_detector repository"/>
@@ -186,7 +171,7 @@ A pure-Python security library acting as a pre-processing firewall for LLM-power
 
 **Stack:** &nbsp; `Python` &nbsp;·&nbsp; `URL Analysis` &nbsp;·&nbsp; `Pattern Detection` &nbsp;·&nbsp; `Domain Intelligence`
 
-A phishing detection tool that analyzes URLs and domain structures for indicators of compromise — lookalike domains, suspicious TLDs, redirect chains, and known phishing patterns. Built to help users verify links before clicking and protect against social engineering attacks.
+A phishing detection tool that analyzes URLs and domain structures for indicators of compromise — lookalike domains, suspicious TLDs, redirect chains, and known phishing patterns.
 
 <a href="https://github.com/kushal-soni-official/PhishGuard">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View PhishGuard repository"/>
@@ -201,7 +186,7 @@ A phishing detection tool that analyzes URLs and domain structures for indicator
 
 **Stack:** &nbsp; `Python` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `CVE API` &nbsp;·&nbsp; `PDF Reporting`
 
-Automated network scanner that maps topology, discovers open ports, fingerprints running services, and cross-references results against the live CVE vulnerability database in real-time. Compiles all findings into actionable PDF remediation reports for security assessment workflows.
+Automated network scanner that maps topology, discovers open ports, fingerprints running services, and cross-references results against the live CVE vulnerability database in real-time. Compiles all findings into actionable PDF remediation reports.
 
 <a href="https://github.com/kushal-soni-official/NetSpectre">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View NetSpectre repository"/>
@@ -218,7 +203,7 @@ Automated network scanner that maps topology, discovers open ports, fingerprints
 
 > 🏷️ **Final capstone project — IBM SkillsBuild AI & ML Internship · AICTE · Jan–Feb 2026**
 
-AI-driven scam message classifier trained on real-world fraud datasets using TF-IDF vectorization and PyTorch neural networks. Detects SMS, email, and chat scam patterns with high precision — demonstrating applied ML for real threat classification.
+AI-driven scam message classifier trained on real-world fraud datasets using TF-IDF vectorization and PyTorch neural networks. Detects SMS, email, and chat scam patterns with high precision.
 
 <a href="https://github.com/kushal-soni-official/scam-shield">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View scam-shield repository"/>
@@ -233,7 +218,7 @@ AI-driven scam message classifier trained on real-world fraud datasets using TF-
 
 **Stack:** &nbsp; `HTML` &nbsp;·&nbsp; `CSS` &nbsp;·&nbsp; `Vanilla JavaScript` &nbsp;·&nbsp; `Groq API` &nbsp;·&nbsp; `Google Gemini` &nbsp;·&nbsp; `OpenRouter`
 
-Lightweight AI chat interface integrating multiple free-tier LLM providers via REST APIs — built for mobile-first performance and 3G network compatibility. Zero local hardware dependency. Manages API credentials securely without client-side exposure.
+Lightweight AI chat interface integrating multiple free-tier LLM providers via REST APIs — built for mobile-first performance and 3G network compatibility. Zero local hardware dependency.
 
 <a href="https://github.com/kushal-soni-official/CYPH3R">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CYPH3R repository"/>
@@ -267,7 +252,7 @@ Lightweight Python GUI tool automating host detection and OS fingerprinting with
 
 > 🏷️ **Final capstone project — Microsoft Elevate Power BI Internship · AICTE · Feb–Mar 2026**
 
-Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in fraud cases. Built custom DAX measures and Power Query transformations for dynamic risk-assessment dashboards that surface fraud hotspots, transaction anomalies, and trend forecasts.
+Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in fraud cases. Built custom DAX measures and Power Query transformations for dynamic risk-assessment dashboards.
 
 <a href="https://github.com/kushal-soni-official/BankFraud-PowerBI-project">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View BankFraud-PowerBI-project repository"/>
@@ -282,7 +267,7 @@ Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in f
 
 **Stack:** &nbsp; `Python` &nbsp;·&nbsp; `Cryptography` &nbsp;·&nbsp; `AES Encryption` &nbsp;·&nbsp; `Fernet`
 
-A command-line file encryption and decryption vault using strong symmetric cryptographic algorithms (AES via Fernet). Designed for secure local file storage — encrypt sensitive files before uploading to any cloud or sharing medium.
+A command-line file encryption and decryption vault using strong symmetric cryptographic algorithms (AES via Fernet). Designed for secure local file storage.
 
 <a href="https://github.com/kushal-soni-official/CryptVault">
   <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CryptVault repository"/>
@@ -295,17 +280,13 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=repositories">
-    <img src="https://img.shields.io/badge/◈__View_All_Projects__◈-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d1117" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/◈__View_All_Projects__◈-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View all repositories" />
   </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     WORK EXPERIENCE
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20WORK%20EXPERIENCE&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Work Experience" />
+## `▸` Work Experience
 
 <br/>
 
@@ -350,50 +331,36 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     EDUCATION
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20EDUCATION&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Education" />
+## `▸` Education
 
 <br/>
 
-| Degree | Institution | Year | Result |
-|:-------|:-----------|:-----|:-------|
-| 🎓 **Diploma in COMPUTER SCIENCE AND ENGINEERING** | Govt Polytechnic | 2024 – 2026 | Graduated |
-| 📘 XII Senior Secondary | UP Board | 2024 | **89%** |
-| 📗 X Secondary | UP Board | 2022 | 80.3% |
+| Degree | Year | Result |
+|:-------|:-----|:-------|
+| 🎓 **Diploma in COMPUTER SCIENCE AND ENGINEERING** (Govt Polytechnic) | 2024 – 2026 | Graduated |
+| 📘 XII Senior Secondary — UP Board | 2024 | **89%** |
+| 📗 X Secondary — UP Board | 2022 | 80.3% |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     CERTIFICATIONS
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20CERTIFICATIONS%20%26%20ACHIEVEMENTS&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Certifications and Achievements" />
+## `▸` Certifications & Achievements
 
 <br/>
 
 | Certification / Achievement | Issuer | Details |
 |:---------------------------|:-------|:--------|
 | 🏅 Ethical Hacking — 12-Week Course | **NPTEL · IIT Kharagpur** | **Elite Performer** · Jul–Oct 2025 |
-| ☁️ Machine Learning Basics | **AWS** | Cloud ML Foundations |
-| 🧠 AI Fundamentals | **IBM** | Foundations of Artificial Intelligence |
+| 🏆 **Certificate of Excellence** — Open Source Hackathon | **Enginow** | Winner · Open Source Track |
 | 🤝 Artificial Intelligence & Machine Learning | **Microsoft** | AI & ML Course Certificate |
 | 🤖 Build Reliable Agentic AI Applications | **Google / Kaggle** | Agentic AI & ADK Intensive |
 | 🌐 10-Day AI Bootcamp | **Techpile Technologies** | Applied AI & Development |
 | 💻 Web Development | **Techpile Technologies** | HTML, CSS, JavaScript |
 | 💼 Young Professional Program | **TCS ION Career Edge** | Dec 2025 – Jun 2026 |
-| 🏆 Tradition Hacks 2026 | **Hackathon** | Participant & Builder |
 | 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     LANGUAGE PROFICIENCIES
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20LANGUAGE%20PROFICIENCIES&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Language Proficiencies" />
+## `▸` Language Proficiencies
 
 <br/>
 
@@ -410,11 +377,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     CONTRIBUTION ACTIVITY
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20CONTRIBUTION%20ACTIVITY&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Contribution Activity" />
+## `▸` Contribution Activity
 
 <br/>
 
@@ -430,11 +393,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     GET IN TOUCH
-═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20GET%20IN%20TOUCH&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Get In Touch" />
+## `▸` Get In Touch
 
 <br/>
 
