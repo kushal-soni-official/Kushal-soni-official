@@ -1,38 +1,31 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     README v3.2 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
-     Theme: Neon Green (Primary) · Neon Blue (Secondary) · Blood Red (Accent)
+     README v3.3 — KUSHAL SONI | CYBERSECURITY GITHUB PROFILE
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- LAYER 1 — VENOM ELECTRIC TOP BORDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:00ff88,100:050510&height=180&section=header&text=KUSHAL%20SONI&fontSize=72&fontColor=00ff88&fontAlignY=55&animation=twinkling&stroke=00ff88&strokeWidth=3" alt="Kushal Soni — Cybersecurity and Ethical Hacking" />
+<!-- ▓▓▓ LAYER 1 — VENOM TOP ANIMATED BORDER (no text — GIF handles hero) ▓▓▓ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,50:041a0e,100:050510&height=80&section=header" alt="neon venom border" />
 
-<!-- NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
+<!-- ▓▓▓ LAYER 2 — HERO GIF (autoplays by default) ▓▓▓ -->
+<img src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" width="100%" alt="Kushal Soni Hero Banner" />
 
-<!-- LAYER 2 — HERO GIF BANNER -->
+<!-- ▓▓▓ LAYER 3 — BRUTEFORCE DECODING ANIMATION for KUSHAL SONI ▓▓▓ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" width="100%" alt="Kushal Soni Hero Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=52&duration=350&pause=3200&color=00FF88&center=true&vCenter=true&width=720&height=80&lines=%23%23%23%23%23%23+%23%23%23%23;K%23%23%23%23%23+%23%23%23%23;KU%23%23%23%23+%23%23%23%23;KUS%23%23%23+%23%23%23%23;KUSH%23%23+%23%23%23%23;KUSHAL+%23%23%23%23;KUSHAL+S%23%23%23;KUSHAL+SO%23%23;KUSHAL+SON%23;KUSHAL+SONI" alt="Kushal Soni bruteforce decode animation" />
 </p>
 
-<!-- NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
-
-<!-- LAYER 3 — TYPING SVG (hacker terminal boot sequence) -->
+<!-- ▓▓▓ LAYER 4 — TAGLINE TYPING SVG ▓▓▓ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=48&lines=%5B+SYSTEM+BOOT+%5D+...+Initializing+Profile;%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Typing animation — Cybersecurity, Ethical Hacker, AI Security Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&width=720&height=42&lines=%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Tagline typing animation" />
 </p>
 
-<!-- NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
-
-<!-- BUTTONS — Followers + Profile Views (identical style) -->
+<!-- ▓▓▓ BUTTONS — Both shields.io rendered = IDENTICAL styling ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
     <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&color=041a0e&style=for-the-badge&labelColor=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&label=PROFILE+VIEWS&color=041a0e&style=for-the-badge&labelColor=041a0e&logo=github&logoColor=00ff88&abbreviated=true" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=041a0e&labelColor=041a0e&style=for-the-badge&logo=github&logoColor=00ff88&label=PROFILE+VIEWS&query=%24.count&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dkushal-soni-official%26format%3Djson" alt="Profile Views" />
   </a>
 </p>
 
@@ -42,10 +35,14 @@
   </a>
 </p>
 
-<!-- NEON DIVIDER -->
+<!-- ONE NEON DIVIDER before content starts -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` About Me
+<!-- ═══════════════════════════════════════════════════════════════
+     ABOUT ME
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20ABOUT%20ME&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="About Me" />
 
 <br/>
 
@@ -61,20 +58,23 @@
 
 > *"Going to work" is an attitude, not a location. Being a hacker means being able to master anything you want. Happy Hacker's day ✓ ...*
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Technical Stack
+<!-- ═══════════════════════════════════════════════════════════════
+     TECHNICAL STACK
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20TECHNICAL%20STACK&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Technical Stack" />
 
 <br/>
 
 <p align="center"><b>◈ Languages & Core</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
 </p>
 
 <br/>
@@ -82,12 +82,12 @@
 <p align="center"><b>◈ Cybersecurity & Offensive Tools</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-00ff88?style=for-the-badge&logo=gnubash&logoColor=black" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SHA--256_Cryptography-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SHA-256 Cryptography" />
-  <img src="https://img.shields.io/badge/Windows_Registry_API-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Registry API" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" />
+  <img src="https://img.shields.io/badge/SHA--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=003A70" alt="SHA-256 Cryptography" />
+  <img src="https://img.shields.io/badge/Windows_Registry_API-0d1117?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows Registry API" />
 </p>
 
 <br/>
@@ -95,12 +95,12 @@
 <p align="center"><b>◈ AI, ML & Security Intelligence</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TF--IDF_NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="TF-IDF NLP" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TF--IDF_NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=09A3D5" alt="TF-IDF NLP" />
+  <img src="https://img.shields.io/badge/Google_ADK-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Groq_API-0d1117?style=for-the-badge&logo=groq&logoColor=F55036" alt="Groq API" />
 </p>
 
 <br/>
@@ -108,11 +108,11 @@
 <p align="center"><b>◈ Web, API & Data</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
 </p>
 
 <br/>
@@ -120,15 +120,18 @@
 <p align="center"><b>◈ DevOps & Tools</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Antigravity_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity CLI" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Antigravity_CLI-0d1117?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity CLI" />
 </p>
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Projects
+<!-- ═══════════════════════════════════════════════════════════════
+     PROJECTS
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20PROJECTS&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Projects" />
 
 <br/>
 
@@ -141,7 +144,7 @@
 Monitors critical files and directories for unauthorized modifications using SHA-256 cryptographic hashing. Generates a baseline hash snapshot and continuously alerts when any file is tampered, deleted, or replaced — essential for endpoint security and compliance auditing.
 
 <a href="https://github.com/kushal-soni-official/File-Integrity-Monitor">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View File-Integrity-Monitor repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View File-Integrity-Monitor repository"/>
 </a>
 
 <br/><br/>
@@ -156,7 +159,7 @@ Monitors critical files and directories for unauthorized modifications using SHA
 A multi-layer Windows spyware scanner targeting keylogger signatures across three attack surfaces: running processes, Windows registry startup entries, and known malicious file paths. Detects and reports suspicious spyware activity without requiring administrator privileges.
 
 <a href="https://github.com/kushal-soni-official/Keylogger-Detector">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View Keylogger-Detector repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View Keylogger-Detector repository"/>
 </a>
 
 <br/><br/>
@@ -171,7 +174,7 @@ A multi-layer Windows spyware scanner targeting keylogger signatures across thre
 A pure-Python security library acting as a pre-processing firewall for LLM-powered applications. Detects and neutralizes prompt injection, jailbreak attempts, and adversarial input patterns before they reach the language model processing layer. Designed for zero-dependency deployment.
 
 <a href="https://github.com/kushal-soni-official/prompt_injection_detector">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View prompt_injection_detector repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View prompt_injection_detector repository"/>
 </a>
 
 <br/><br/>
@@ -186,7 +189,7 @@ A pure-Python security library acting as a pre-processing firewall for LLM-power
 A phishing detection tool that analyzes URLs and domain structures for indicators of compromise — lookalike domains, suspicious TLDs, redirect chains, and known phishing patterns. Built to help users verify links before clicking and protect against social engineering attacks.
 
 <a href="https://github.com/kushal-soni-official/PhishGuard">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View PhishGuard repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View PhishGuard repository"/>
 </a>
 
 <br/><br/>
@@ -201,7 +204,7 @@ A phishing detection tool that analyzes URLs and domain structures for indicator
 Automated network scanner that maps topology, discovers open ports, fingerprints running services, and cross-references results against the live CVE vulnerability database in real-time. Compiles all findings into actionable PDF remediation reports for security assessment workflows.
 
 <a href="https://github.com/kushal-soni-official/NetSpectre">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View NetSpectre repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View NetSpectre repository"/>
 </a>
 
 <br/><br/>
@@ -218,7 +221,7 @@ Automated network scanner that maps topology, discovers open ports, fingerprints
 AI-driven scam message classifier trained on real-world fraud datasets using TF-IDF vectorization and PyTorch neural networks. Detects SMS, email, and chat scam patterns with high precision — demonstrating applied ML for real threat classification.
 
 <a href="https://github.com/kushal-soni-official/scam-shield">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View scam-shield repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View scam-shield repository"/>
 </a>
 
 <br/><br/>
@@ -233,7 +236,7 @@ AI-driven scam message classifier trained on real-world fraud datasets using TF-
 Lightweight AI chat interface integrating multiple free-tier LLM providers via REST APIs — built for mobile-first performance and 3G network compatibility. Zero local hardware dependency. Manages API credentials securely without client-side exposure.
 
 <a href="https://github.com/kushal-soni-official/CYPH3R">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CYPH3R repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CYPH3R repository"/>
 </a>
 
 <br/><br/>
@@ -250,7 +253,7 @@ Lightweight AI chat interface integrating multiple free-tier LLM providers via R
 Lightweight Python GUI tool automating host detection and OS fingerprinting without requiring admin rights. Designed for field use on resource-constrained systems during live network simulation exercises.
 
 <a href="https://github.com/kushal-soni-official/CyberScanLite">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CyberScanLite repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CyberScanLite repository"/>
 </a>
 
 <br/><br/>
@@ -267,7 +270,7 @@ Lightweight Python GUI tool automating host detection and OS fingerprinting with
 Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in fraud cases. Built custom DAX measures and Power Query transformations for dynamic risk-assessment dashboards that surface fraud hotspots, transaction anomalies, and trend forecasts.
 
 <a href="https://github.com/kushal-soni-official/BankFraud-PowerBI-project">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View BankFraud-PowerBI-project repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View BankFraud-PowerBI-project repository"/>
 </a>
 
 <br/><br/>
@@ -282,7 +285,7 @@ Analyzed real-world banking fraud datasets documenting an **85% YoY surge** in f
 A command-line file encryption and decryption vault using strong symmetric cryptographic algorithms (AES via Fernet). Designed for secure local file storage — encrypt sensitive files before uploading to any cloud or sharing medium.
 
 <a href="https://github.com/kushal-soni-official/CryptVault">
-  <img src="https://img.shields.io/badge/View_Repo-041a0e?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CryptVault repository"/>
+  <img src="https://img.shields.io/badge/View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="View CryptVault repository"/>
 </a>
 
 <br/><br/>
@@ -292,14 +295,17 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=repositories">
-    <img src="https://img.shields.io/badge/◈__View_All_Projects__◈-041a0e?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=041a0e" alt="View all repositories" />
+    <img src="https://img.shields.io/badge/◈__View_All_Projects__◈-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d1117" alt="View all repositories" />
   </a>
 </p>
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Work Experience
+<!-- ═══════════════════════════════════════════════════════════════
+     WORK EXPERIENCE
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20WORK%20EXPERIENCE&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Work Experience" />
 
 <br/>
 
@@ -342,10 +348,13 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 <br/>
 </details>
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Education
+<!-- ═══════════════════════════════════════════════════════════════
+     EDUCATION
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20EDUCATION&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Education" />
 
 <br/>
 
@@ -355,10 +364,13 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 📘 XII Senior Secondary | UP Board | 2024 | **89%** |
 | 📗 X Secondary | UP Board | 2022 | 80.3% |
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Certifications & Achievements
+<!-- ═══════════════════════════════════════════════════════════════
+     CERTIFICATIONS
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20CERTIFICATIONS%20%26%20ACHIEVEMENTS&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Certifications and Achievements" />
 
 <br/>
 
@@ -375,10 +387,13 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 🏆 Tradition Hacks 2026 | **Hackathon** | Participant & Builder |
 | 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Language Proficiencies
+<!-- ═══════════════════════════════════════════════════════════════
+     LANGUAGE PROFICIENCIES
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20LANGUAGE%20PROFICIENCIES&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Language Proficiencies" />
 
 <br/>
 
@@ -393,10 +408,13 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 </div>
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Contribution Activity
+<!-- ═══════════════════════════════════════════════════════════════
+     CONTRIBUTION ACTIVITY
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20CONTRIBUTION%20ACTIVITY&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Contribution Activity" />
 
 <br/>
 
@@ -410,34 +428,37 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   <img src="https://raw.githubusercontent.com/kushal-soni-official/kushal-soni-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<!-- NEON DIVIDER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="divider" />
 
-## `▸` Get In Touch
+<!-- ═══════════════════════════════════════════════════════════════
+     GET IN TOUCH
+═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=041a0e&height=46&text=%E2%96%B8%20%20GET%20IN%20TOUCH&fontColor=00ff88&fontSize=20&fontAlign=4&fontAlignY=65&animation=fadeIn" alt="Get In Touch" />
 
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushal-soni-750340345/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Profile" />
   </a>
   &nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Profile" />
   </a>
   &nbsp;
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://tryhackme.com/p/kusharusan">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe Profile" />
+    <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=88cc14" alt="TryHackMe Profile" />
   </a>
   &nbsp;
   <a href="https://discord.com/users/tgl.prince">
-    <img src="https://img.shields.io/badge/tgl.prince-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord tgl.prince" />
+    <img src="https://img.shields.io/badge/tgl.prince-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord tgl.prince" />
   </a>
 </p>
 
