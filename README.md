@@ -40,7 +40,8 @@
 - ⚔️ Focused on **Cybersecurity & Ethical Hacking** — from Kali Linux penetration tests to multi-agent AI defense pipelines
 - 🤖 Trained predictive ML models & Neural Networks achieving **90.91% & 95.61% accuracy** on security classification tasks
 - 🌐 Bridging **network-level exploitation** and **LLM-layer defense** — both sides of the wall
-- 💡 Financial barriers don't stop progress — every tool here was built on **free tiers, open source, and raw persistence**
+- 💡 Note — every tool here was built on **free tiers, open source, and raw persistence**
+- 🪄 Cybersecurity isn't just my domain , it's my hobby as well as my main passion and life long dream.
 
 <br/>
 
