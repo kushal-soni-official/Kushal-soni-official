@@ -338,7 +338,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | Certification / Achievement | Issuer | Details |
 |:---------------------------|:-------|:--------|
 | 🏅 Ethical Hacking — 12-Week Course | **NPTEL · IIT Kharagpur** | **Elite Performer** · Jul–Oct 2025 |
-| 🏆 **Certificate of Excellence** — Open Source Hackathon | **Enginow** | Open Source Track |
+| 🏆 **Certificate of Excellence** — Aptitude test | **Enginow** | Open Source hackathon |
 | 🤝 Artificial Intelligence &amp; Machine Learning | **Microsoft** | AI &amp; ML Course Certificate |
 | 🤖 Build Reliable Agentic AI Applications | **Google / Kaggle** | Agentic AI &amp; ADK Intensive |
 | 🌐 10-Day AI Bootcamp | **Techpile Technologies** | Applied AI &amp; Development |
