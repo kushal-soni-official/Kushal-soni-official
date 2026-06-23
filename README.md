@@ -6,7 +6,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/header.svg" alt="Kushal Soni — Cybersecurity and AI Security Builder" />
 
 <!-- ▓▓▓ HERO GIF ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif.gif" alt="Kushal Soni Hero Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif10.gif" alt="Kushal Soni Hero Banner" />
 
 <!-- ▓▓▓ TAGLINE TYPING ANIMATION ▓▓▓ -->
 <p align="center">
