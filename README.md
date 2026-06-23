@@ -35,13 +35,13 @@
 
 ## `▸` About Me
 
-- 🎓 **Computer Science & Engineering Student** — at the intersection of **Cybersecurity** and **Artificial Intelligence**
-- 🔐 Crafting **AI-powered security tools on zero budget** — because real skill needs no subscription
-- ⚔️ Focused on **Cybersecurity & Ethical Hacking** — from Kali Linux penetration tests to multi-agent AI defense pipelines
-- 🤖 Trained predictive ML models & Neural Networks achieving **90.91% & 95.61% accuracy** on security classification tasks
-- 🌐 Bridging **network-level exploitation** and **LLM-layer defense** — both sides of the wall
-- 💡 Note — every tool here was built on **free tiers, open source, and raw persistence**
-- 🪄 Cybersecurity isn't just my domain , it's my hobby as well as my main passion and life long dream.
+- 🎓 **Computer Science & Engineering Student** — at the intersection of **Cybersecurity** and **Artificial Intelligence**.
+- 🔐 Crafting **AI-powered security tools on zero budget** — because real skill needs no subscription.
+- ⚔️ Focused on **Cybersecurity & Ethical Hacking** — from Kali Linux penetration tests to multi-agent AI defense pipelines.
+- 🤖 Trained predictive ML models & Neural Networks achieving **90.91% & 95.61% accuracy** on security classification tasks.
+- 🌐 Bridging **network-level exploitation** and **LLM-layer defense** — both sides of the wall.
+- 💡 Note — every tool here was built on **free tiers, open source, and raw persistence**.
+- 🪄 **Cybersecurity** isn't just my career path; it's my **obsession** and **lifelong pursuit**.
 
 <br/>
 
