@@ -159,7 +159,8 @@
   <text x="450" y="150" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
         font-size="13" fill="#00ff88" letter-spacing="3">
-    [ Learning CYBERSECURITY &amp; AI · Aspiring ETHICAL HACKER ]
+    ​[ AI · CYBERSECURITY · ETHICAL HACKING ]
+
     <animate attributeName="opacity" values="0.45;0.7;0.45" dur="4s" repeatCount="indefinite"/>
   </text>
 
