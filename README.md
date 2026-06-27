@@ -377,6 +377,37 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
 
+
+
+## `▸` GitHub Live Stats & Streak
+
+**◈ Live Streak & Total Contributions**
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" alt="Kushal Soni GitHub Streak Stats" />
+  </a>
+</p>
+
+**◈ Overall GitHub Activity Snapshot**
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88&custom_title=Kushal+Soni%27s+GitHub+Stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88&custom_title=Kushal+Soni%27s+GitHub+Stats" width="100%" alt="Kushal Soni GitHub Stats Overview" />
+  </a>
+</p>
+
+**◈ Most Used Languages**
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages" width="60%" alt="Top Languages" />
+  </a>
+</p>
+
+![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header)
+
+
 ## `▸` Get In Touch
 
 </br>
