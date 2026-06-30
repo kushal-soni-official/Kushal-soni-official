@@ -32,6 +32,7 @@
 </p>
 
 <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` About Me
 
@@ -51,6 +52,7 @@
 
 ## `▸` Technical Stack
 
+<br/>
 <p align="center"><b>⚡ Core Languages &amp; Scripting</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -59,6 +61,7 @@
   <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff88" alt="SQL" />
 </p>
 
+<br/>
 <p align="center"><b>🛡️ Offensive Security &amp; Penetration Testing</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
@@ -68,6 +71,7 @@
   <img src="https://img.shields.io/badge/AES--256_Cryptography-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=FFD700" alt="AES-256" />
 </p>
 
+<br/>
 <p align="center"><b>🧠 AI, ML &amp; Defense Engineering</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
@@ -78,6 +82,7 @@
   <img src="https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask" />
 </p>
 
+<br/>
 <p align="center"><b>⚙️ Platforms &amp; Data</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
@@ -85,7 +90,10 @@
   <img src="https://img.shields.io/badge/Azure_(Learning)-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff88" alt="Azure" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<br/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Projects
 
