@@ -51,66 +51,41 @@
 
 ## `▸` Technical Stack
 
-</br>
-
 <p align="center"><b>⚡ Core Languages &amp; Scripting</b></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-0a0f1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-0a0f1e?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0a0f1e?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-0a0f1e?style=for-the-badge&logo=sqlite&logoColor=0088ff" alt="SQL" />
 </p>
-
-<br/>
 
 <p align="center"><b>🛡️ Offensive Security &amp; Penetration Testing</b></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-0a0f1e?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-0a0f1e?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Wireshark-0a0f1e?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-0a0f1e?style=for-the-badge&logo=gnubash&logoColor=0088ff" alt="Nmap" />
-  <img src="https://img.shields.io/badge/SHA--256_Cryptography-0a0f1e?style=for-the-badge&logo=letsencrypt&logoColor=3C8CA3" alt="SHA-256" />
-  <img src="https://img.shields.io/badge/Windows_Registry_API-0a0f1e?style=for-the-badge&logo=windows&logoColor=0078D6" alt="Windows Registry API" />
+  <img src="https://img.shields.io/badge/Nmap-0a0f1e?style=for-the-badge&logo=gnubash&logoColor=00ff88" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0a0f1e?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/AES--256_Cryptography-0a0f1e?style=for-the-badge&logo=letsencrypt&logoColor=FFD700" alt="AES-256" />
 </p>
 
-<br/>
-
-<p align="center"><b>🧠 AI, Machine Learning &amp; Defense Engineering</b></p>
-
+<p align="center"><b>🧠 AI, ML &amp; Defense Engineering</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0a0f1e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-0a0f1e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TF--IDF_NLP-0a0f1e?style=for-the-badge&logo=spacy&logoColor=09A3D5" alt="TF-IDF NLP" />
   <img src="https://img.shields.io/badge/Google_ADK-0a0f1e?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google ADK" />
-  <img src="https://img.shields.io/badge/Gemini_API-0a0f1e?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Groq_API-0a0f1e?style=for-the-badge&logo=groq&logoColor=F55036" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Gemini_API-0a0f1e?style=for-the-badge&logo=googlegemini&logoColor=0088ff" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=00ff88" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0a0f1e?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask" />
 </p>
 
-<br/>
-
-<p align="center"><b>⚙️ Web, API &amp; Data</b></p>
-
+<p align="center"><b>⚙️ Platforms &amp; Data</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/REST_APIs-0a0f1e?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/SQLite-0a0f1e?style=for-the-badge&logo=sqlite&logoColor=4ea4d4" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Power_BI-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="DAX" />
+  <img src="https://img.shields.io/badge/Linux-0a0f1e?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Power_BI-0a0f1e?style=for-the-badge&logo=powerbi&logoColor=FFD700" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Azure_(Learning)-0a0f1e?style=for-the-badge&logo=microsoftazure&logoColor=0088ff" alt="Azure" />
 </p>
 
-<br/>
-
-<p align="center"><b>🛠️ DevOps &amp; Development Tools</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0a0f1e?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0a0f1e?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Antigravity_CLI-0a0f1e?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity CLI" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
 
 ## `▸` Projects
 
@@ -363,8 +338,8 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 **◈ Most Used Languages**
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=0088FF&text_color=ffffff&custom_title=Most+Used+Languages" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0a0f1e&title_color=0088FF&text_color=ffffff&custom_title=Most+Used+Languages" width="60%" alt="Top Languages" />
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal-soni-official&theme=tokyonight" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushal-soni-official&theme=tokyonight" height="150" alt="Top Languages" />
   </a>
 </p>
 
