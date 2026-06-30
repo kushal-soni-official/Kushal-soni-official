@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="100%" preserveAspectRatio="xMidYMid meet">
 
   <!-- Background -->
-  <rect width="900" height="190" fill="#050510"/>
+  <rect width="900" height="190" fill="#0a0f1e"/>
 
   <!-- === MATRIX RAIN COLUMNS — LEFT ZONE === -->
 
   <!-- col 1 x=12 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff">
     <animate attributeName="opacity" values="0.6;1;0.4;0.8;0.6" dur="2.3s" repeatCount="indefinite"/>
     <tspan x="12" y="18">1</tspan><tspan x="12" dy="16">Ψ</tspan><tspan x="12" dy="16">0</tspan>
     <tspan x="12" dy="16">F</tspan><tspan x="12" dy="16">A</tspan><tspan x="12" dy="16">3</tspan>
@@ -15,7 +15,7 @@
   </text>
 
   <!-- col 2 x=38 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.5">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.5">
     <animate attributeName="opacity" values="0.3;0.7;0.5;1;0.3" dur="3.1s" repeatCount="indefinite" begin="0.4s"/>
     <tspan x="38" y="30">9</tspan><tspan x="38" dy="16">D</tspan><tspan x="38" dy="16">Λ</tspan>
     <tspan x="38" dy="16">6</tspan><tspan x="38" dy="16">4</tspan><tspan x="38" dy="16">Σ</tspan>
@@ -24,7 +24,7 @@
   </text>
 
   <!-- col 3 x=62 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff">
     <animate attributeName="opacity" values="0.8;0.3;0.9;0.4;0.8" dur="1.9s" repeatCount="indefinite" begin="0.8s"/>
     <tspan x="62" y="10">Ω</tspan><tspan x="62" dy="16">2</tspan><tspan x="62" dy="16">7</tspan>
     <tspan x="62" dy="16">C</tspan><tspan x="62" dy="16">Ψ</tspan><tspan x="62" dy="16">1</tspan>
@@ -33,7 +33,7 @@
   </text>
 
   <!-- col 4 x=88 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.6">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.6">
     <animate attributeName="opacity" values="0.4;0.9;0.3;0.7;0.4" dur="2.7s" repeatCount="indefinite" begin="1.2s"/>
     <tspan x="88" y="22">5</tspan><tspan x="88" dy="16">Φ</tspan><tspan x="88" dy="16">8</tspan>
     <tspan x="88" dy="16">D</tspan><tspan x="88" dy="16">Σ</tspan><tspan x="88" dy="16">4</tspan>
@@ -42,7 +42,7 @@
   </text>
 
   <!-- col 5 x=114 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff">
     <animate attributeName="opacity" values="0.7;0.2;0.8;0.5;0.7" dur="2.1s" repeatCount="indefinite" begin="0.2s"/>
     <tspan x="114" y="14">B</tspan><tspan x="114" dy="16">3</tspan><tspan x="114" dy="16">Ω</tspan>
     <tspan x="114" dy="16">7</tspan><tspan x="114" dy="16">F</tspan><tspan x="114" dy="16">Λ</tspan>
@@ -51,7 +51,7 @@
   </text>
 
   <!-- col 6 x=140 (fading toward center) -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.08">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.08">
     <tspan x="140" y="20">4</tspan><tspan x="140" dy="16">Σ</tspan><tspan x="140" dy="16">0</tspan>
     <tspan x="140" dy="16">8</tspan><tspan x="140" dy="16">Ψ</tspan><tspan x="140" dy="16">6</tspan>
     <tspan x="140" dy="16">D</tspan><tspan x="140" dy="16">1</tspan><tspan x="140" dy="16">E</tspan>
@@ -60,14 +60,14 @@
   <!-- === MATRIX RAIN COLUMNS — RIGHT ZONE === -->
 
   <!-- col right 1 x=760 (fading toward center) -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.08">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.08">
     <tspan x="760" y="25">3</tspan><tspan x="760" dy="16">Φ</tspan><tspan x="760" dy="16">A</tspan>
     <tspan x="760" dy="16">9</tspan><tspan x="760" dy="16">Λ</tspan><tspan x="760" dy="16">7</tspan>
     <tspan x="760" dy="16">B</tspan><tspan x="760" dy="16">2</tspan><tspan x="760" dy="16">5</tspan>
   </text>
 
   <!-- col right 2 x=810 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff">
     <animate attributeName="opacity" values="0.5;0.9;0.3;0.7;0.5" dur="2.5s" repeatCount="indefinite" begin="0.6s"/>
     <tspan x="810" y="18">Ω</tspan><tspan x="810" dy="16">1</tspan><tspan x="810" dy="16">C</tspan>
     <tspan x="810" dy="16">Σ</tspan><tspan x="810" dy="16">6</tspan><tspan x="810" dy="16">F</tspan>
@@ -76,7 +76,7 @@
   </text>
 
   <!-- col right 3 x=836 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.6">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.6">
     <animate attributeName="opacity" values="0.8;0.3;1;0.5;0.8" dur="1.8s" repeatCount="indefinite" begin="1.0s"/>
     <tspan x="836" y="32">7</tspan><tspan x="836" dy="16">A</tspan><tspan x="836" dy="16">Λ</tspan>
     <tspan x="836" dy="16">2</tspan><tspan x="836" dy="16">E</tspan><tspan x="836" dy="16">9</tspan>
@@ -85,7 +85,7 @@
   </text>
 
   <!-- col right 4 x=862 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff">
     <animate attributeName="opacity" values="0.3;0.8;0.5;0.9;0.3" dur="2.9s" repeatCount="indefinite" begin="0.3s"/>
     <tspan x="862" y="15">Σ</tspan><tspan x="862" dy="16">4</tspan><tspan x="862" dy="16">Ψ</tspan>
     <tspan x="862" dy="16">C</tspan><tspan x="862" dy="16">1</tspan><tspan x="862" dy="16">Ω</tspan>
@@ -94,7 +94,7 @@
   </text>
 
   <!-- col right 5 x=888 -->
-  <text font-family="'Courier New',monospace" font-size="13" fill="#00ff88" opacity="0.5">
+  <text font-family="'Courier New',monospace" font-size="13" fill="#0088ff" opacity="0.5">
     <animate attributeName="opacity" values="0.6;1;0.4;0.7;0.6" dur="2.2s" repeatCount="indefinite" begin="1.5s"/>
     <tspan x="888" y="24">D</tspan><tspan x="888" dy="16">9</tspan><tspan x="888" dy="16">Φ</tspan>
     <tspan x="888" dy="16">A</tspan><tspan x="888" dy="16">2</tspan><tspan x="888" dy="16">7</tspan>
@@ -103,10 +103,10 @@
   </text>
 
   <!-- === NEON BORDER LINES TOP & BOTTOM === -->
-  <line x1="0" y1="1" x2="900" y2="1" stroke="#00ff88" stroke-width="2">
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#0088ff" stroke-width="2">
     <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
   </line>
-  <line x1="0" y1="188" x2="900" y2="188" stroke="#00ff88" stroke-width="2">
+  <line x1="0" y1="188" x2="900" y2="188" stroke="#0088ff" stroke-width="2">
     <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.5s" repeatCount="indefinite" begin="0.5s"/>
   </line>
 
@@ -125,32 +125,32 @@
   <!-- Outer glow layer 1 (large blur sim) -->
   <text x="450" y="108" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.04">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.04">KUSHAL SONI</text>
   <text x="447" y="105" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.06">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.06">KUSHAL SONI</text>
   <text x="453" y="111" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.06">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.06">KUSHAL SONI</text>
 
   <!-- Mid glow layer -->
   <text x="449" y="107" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.12">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.12">KUSHAL SONI</text>
   <text x="451" y="109" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.12">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.12">KUSHAL SONI</text>
   <text x="450" y="107" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.12">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.12">KUSHAL SONI</text>
   <text x="450" y="109" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88" opacity="0.12">KUSHAL SONI</text>
+        font-size="66" font-weight="900" fill="#0088ff" opacity="0.12">KUSHAL SONI</text>
 
   <!-- MAIN TEXT — animated pulse -->
   <text x="450" y="108" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="66" font-weight="900" fill="#00ff88">
+        font-size="66" font-weight="900" fill="#0088ff">
     KUSHAL SONI
     <animate attributeName="opacity" values="0.92;1;0.95;1;0.92" dur="3s" repeatCount="indefinite"/>
   </text>
@@ -158,14 +158,14 @@
   <!-- === SUBTITLE === -->
   <text x="450" y="150" text-anchor="middle"
         font-family="'Courier New',Courier,monospace"
-        font-size="13" fill="#00ff88" letter-spacing="3">
+        font-size="13" fill="#0088ff" letter-spacing="3">
     ​[ AI · CYBERSECURITY · ETHICAL HACKING ]
 
     <animate attributeName="opacity" values="0.45;0.7;0.45" dur="4s" repeatCount="indefinite"/>
   </text>
 
   <!-- Scanning line effect -->
-  <rect x="0" y="0" width="900" height="1" fill="#00ff88" opacity="0.25">
+  <rect x="0" y="0" width="900" height="1" fill="#0088ff" opacity="0.25">
     <animate attributeName="y" values="-2;192;-2" dur="5s" repeatCount="indefinite" calcMode="linear"/>
     <animate attributeName="opacity" values="0;0.3;0.3;0" dur="5s" repeatCount="indefinite"/>
   </rect>

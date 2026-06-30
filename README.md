@@ -53,7 +53,7 @@
 
 </br>
 
-<p align="center"><b>◈ Languages &amp; Core</b></p>
+<p align="center"><b>⚡ Core Languages &amp; Scripting</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a0f1e?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
@@ -64,7 +64,7 @@
 
 <br/>
 
-<p align="center"><b>◈ Cybersecurity &amp; Offensive Tools</b></p>
+<p align="center"><b>🛡️ Offensive Security &amp; Penetration Testing</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-0a0f1e?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
@@ -77,7 +77,7 @@
 
 <br/>
 
-<p align="center"><b>◈ AI, ML &amp; Security Intelligence</b></p>
+<p align="center"><b>🧠 AI, Machine Learning &amp; Defense Engineering</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0a0f1e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
@@ -90,7 +90,7 @@
 
 <br/>
 
-<p align="center"><b>◈ Web, API &amp; Data</b></p>
+<p align="center"><b>⚙️ Web, API &amp; Data</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-0a0f1e?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
@@ -102,7 +102,7 @@
 
 <br/>
 
-<p align="center"><b>◈ DevOps &amp; Tools</b></p>
+<p align="center"><b>🛠️ DevOps &amp; Development Tools</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-0a0f1e?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
@@ -323,43 +323,14 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
 
-## `▸` Education
-
-| Degree | Year | Result |
-|:-------|:-----|:-------|
-| 🎓 **Diploma in COMPUTER SCIENCE AND ENGINEERING** | 2024 – 2026 | Graduated |
-| 📘 XII Senior Secondary — UP Board | 2024 | **89%** |
-| 📗 X Secondary — UP Board | 2022 | 80.3% |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
-
 ## `▸` Certifications &amp; Achievements
 
 | Certification / Achievement | Issuer | Details |
 |:---------------------------|:-------|:--------|
 | 🏅 Ethical Hacking — 12-Week Course | **NPTEL · IIT Kharagpur** | **Elite Performer** · Jul–Oct 2025 |
-| 🏆 **Certificate of Excellence** — Aptitude test | **Enginow** | Open Source hackathon |
 | 🤝 Artificial Intelligence &amp; Machine Learning | **Microsoft** | AI &amp; ML Course Certificate |
-| 🤖 Build Reliable Agentic AI Applications | **Google / Kaggle** | Agentic AI &amp; ADK Intensive |
-| 🌐 10-Day AI Bootcamp | **Techpile Technologies** | Applied AI &amp; Development |
 | 💻 Web Development using Django (Python) | **Techpile Technologies** | HTML, CSS, JavaScript, Django, Python |
 | 💼 Young Professional Program | **TCS ION Career Edge** | Dec 2025 – Jun 2026 |
-| 🥈 **Ranked #2 in City** | **UP Board Class XII** | Senior Secondary 2024 |
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
-
-## `▸` Language Proficiencies
-
-<div align="center">
-
-| Language | Speaking | Reading | Writing |
-|:---:|:---:|:---:|:---:|
-| 🇬🇧 **English** | Advanced | Proficient | Proficient |
-| 🇮🇳 **Hindi** | Native | Native | Native |
-| 🇯🇵 **Japanese** | Basic | Intermediate | Intermediate |
-| 🇪🇸 **Spanish** | Learning | Beginner | Beginner |
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,50:0088ff,100:0a0f1e&height=2&section=header" alt="section divider" />
 
@@ -386,14 +357,6 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0a0f1e&border=0a0f1e&ring=0088FF&fire=FF003C&currStreakLabel=0088FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0a0f1e&border=0a0f1e&ring=0088FF&fire=FF003C&currStreakLabel=0088FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" alt="Kushal Soni GitHub Streak Stats" />
-  </a>
-</p>
-
-**◈ Overall GitHub Activity Snapshot**
-
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=0088FF&icon_color=0088FF&text_color=ffffff&ring_color=0088FF&custom_title=Kushal+Soni%27s+GitHub+Stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=kushal-soni-official&show_icons=true&hide_border=true&bg_color=0a0f1e&title_color=0088FF&icon_color=0088FF&text_color=ffffff&ring_color=0088FF&custom_title=Kushal+Soni%27s+GitHub+Stats" width="100%" alt="Kushal Soni GitHub Stats Overview" />
   </a>
 </p>
 
