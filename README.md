@@ -320,7 +320,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 ## `▸` Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-soni-official&custom_title=Kushal%20Soni%27s%20Contribution%20Graph&bg_color=050510&color=00ff88&line=00ff88&point=ff003c&area=true&hide_border=true&area_color=041a0e" alt="Kushal Soni Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushal-soni-official&custom_title=Kushal%20Soni%27s%20Contribution%20Graph&bg_color=050510&color=4FC3FF&line=00BFFF&point=7FDBFF&area=true&hide_border=true&area_color=001D3D" alt="Kushal Soni Contribution Graph" />
 </p>
 
 <br/>
@@ -329,7 +329,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,15:001F4D,50:00BFFF,85:001F4D,100:050510&height=2&section=header" alt="section divider" />
 
 
 
@@ -337,12 +337,11 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 **◈ Live Streak & Total Contributions**
 
-  <a href="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" alt="Kushal Soni GitHub Streak Stats" />
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00BFFF&fire=4FC3FF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00BFFF&fire=4FC3FF&currStreakLabel=00BFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" alt="Kushal Soni GitHub Streak Stats" />
   </a>
 </p>
-
-
 
 **◈ Most Used Languages**
 
