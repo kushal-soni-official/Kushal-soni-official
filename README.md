@@ -3,36 +3,36 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ▓▓▓ HEADER — Matrix animated SVG ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/header.svg" alt="Kushal Soni — Cybersecurity and AI Security Builder" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/welcome.gif" alt="Kushal Soni — Cybersecurity and AI Security Builder" />
 
 <!-- ▓▓▓ HERO GIF ▓▓▓ -->
-<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/Pi7_Gif10.gif" alt="Kushal Soni Hero Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/banner.gif" alt="Kushal Soni Hero Banner" />
 
 <!-- ▓▓▓ TAGLINE TYPING ANIMATION ▓▓▓ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=900&color=00FF88&center=true&vCenter=true&multiline=false&width=720&height=42&lines=%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Tagline typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2000&pause=900&color=05ACFF&center=true&vCenter=true&multiline=false&width=720&height=42&lines=%3E+Cybersecurity+Student+%26+Ethical+Hacker;%3E+AI+Security+Builder+%7C+Open+Source+Defender;%3E+Penetration+Tester+in+Training;%3E+CTF+Player+%26+Solver;%3E+Building+defenses%2C+one+tool+at+a+time;%5B+ACCESS+GRANTED+%5D" alt="Tagline typing animation" />
 </p>
 
 <!-- ▓▓▓ BUTTONS — Followers & Profile Views ▓▓▓ -->
 <p align="center">
   <a href="https://github.com/kushal-soni-official?tab=followers">
-    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=041a0e&labelColor=041a0e&logo=github&logoColor=00ff88" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/kushal-soni-official?label=FOLLOWERS&style=for-the-badge&color=0d1117&labelColor=0a0a0a&logo=github&logoColor=05acff" alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/kushal-soni-official">
-    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=041a0e&labelColor=041a0e&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kushal-soni-official&style=for-the-badge&color=0d1117&labelColor=0a0a0a&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </p>
 
 <!-- ▓▓▓ EMAIL BUTTON ▓▓▓ -->
 <p align="center">
   <a href="mailto:Ofc.kusharu@gmail.com">
-    <img src="https://img.shields.io/badge/Ofc.kusharu%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ff003c&labelColor=041a0e" alt="Email — Ofc.kusharu@gmail.com" />
+    <img src="https://img.shields.io/badge/Ofc.kusharu%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=05ACFF&labelColor=0a0a0a" alt="Email — Ofc.kusharu@gmail.com" />
   </a>
 </p>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` About Me
 
@@ -48,7 +48,7 @@
 
 > *"Going to work" is an attitude, not a location. Being a hacker means being able to master anything you want. Happy Hacker's day ✓ ...*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Technical Stack
 
@@ -93,7 +93,7 @@
 <br/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Projects
 
@@ -261,7 +261,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Work Experience
 
@@ -304,7 +304,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 <br/>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Certifications &amp; Achievements
 
@@ -315,7 +315,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 | 💻 Web Development using Django (Python) | **Techpile Technologies** | HTML, CSS, JavaScript, Django, Python |
 | 💼 Young Professional Program | **TCS ION Career Edge** | Dec 2025 – Jun 2026 |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Contribution Activity
 
@@ -329,7 +329,7 @@ A command-line file encryption and decryption vault using strong symmetric crypt
   <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header" alt="section divider" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 
 
@@ -337,22 +337,23 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 **◈ Live Streak & Total Contributions**
 
-<p align="center">
   <a href="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=kushal-soni-official&theme=dark&hide_border=true&background=0D1117&border=0D1117&ring=00FF88&fire=FF003C&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="100%" alt="Kushal Soni GitHub Streak Stats" />
   </a>
 </p>
 
+
+
 **◈ Most Used Languages**
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages" target="_blank">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=05acff&text_color=C9D1D9&custom_title=Most+Used+Languages" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages" width="60%" alt="Top Languages" />
   </a>
 </p>
 
-![section divider](https://capsule-render.vercel.app/api?type=rect&color=0:050510,50:00ff88,100:050510&height=2&section=header)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
 
 ## `▸` Get In Touch
 
@@ -388,3 +389,5 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 
 <!-- ▓▓▓ FOOTER MATRIX SVG ▓▓▓ -->
 <img width="100%" src="https://raw.githubusercontent.com/kushal-soni-official/Kushal-soni-official/main/footer.svg" alt="Footer — Stay Secure, Stay Curious" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=color=color=0:050510,15:002255,50:0088ff,85:002255,100:050510&height=2&section=header" alt="section divider" />
