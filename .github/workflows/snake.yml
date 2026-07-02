@@ -11,7 +11,7 @@ jobs:
           github_user_name: kushal-soni-official
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8A0303&color_dots=#050510,#001F4D,#0059B3,#0088FF,#4FC3FF
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
