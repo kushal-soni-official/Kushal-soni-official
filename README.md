@@ -346,8 +346,12 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 **◈ Most Used Languages**
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=05acff&text_color=C9D1D9&custom_title=Most+Used+Languages" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages" width="60%" alt="Top Languages" />
+  <a href="https://github.com/kushal-soni-official/Kushal-soni-official" target="_blank">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages"
+      width="60%"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
