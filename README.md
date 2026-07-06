@@ -348,11 +348,11 @@ A command-line file encryption and decryption vault using strong symmetric crypt
 <!-- ========================= -->
 
 <h2 align="center">◈ Most Used Languages</h2>
-
+</br>
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&custom_title=Most+Used+Languages"
-    width="60%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kushal-soni-official&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&custom_title=Most+Used+Languages"
+    width="80%"
     alt="Most Used Languages"
   />
 </p>
